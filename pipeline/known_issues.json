@@ -1,0 +1,247 @@
+{
+ "_about": "Running checklist of every issue that has slipped through before. EVERY new video is checked against the FULL list (make_video.py writes the result into the report as known_issues, and the visual self-review reads the 'look_for' lines). Add a line whenever a new kind of problem is found; never delete one.",
+ "issues": [
+  {
+   "id": "echo",
+   "issue": "echo / reverb / roomy voice",
+   "checks": [
+    "static:no-reverb-in-chain"
+   ],
+   "look_for": "",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "blips",
+   "issue": "short (<100 ms) audio blips/clicks at segment joins",
+   "checks": [
+    "blips"
+   ],
+   "look_for": "",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "pace-scene",
+   "issue": "pace changes between scenes (reported only: ElevenLabs' delivery is kept as is)",
+   "checks": [
+    "pace"
+   ],
+   "look_for": "",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "pace-word",
+   "issue": "words dragging or rushed inside a line",
+   "checks": [
+    "word-pace"
+   ],
+   "look_for": "",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "pause-uniform",
+   "issue": "uniform robotic pauses",
+   "checks": [
+    "static:varied-pauses"
+   ],
+   "look_for": "",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "pronounce",
+   "issue": "mispronounced / garbled words, wrong Sanskrit names",
+   "checks": [
+    "pronounce"
+   ],
+   "look_for": "",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "caption-sync",
+   "issue": "captions out of sync with speech",
+   "checks": [
+    "timing"
+   ],
+   "look_for": "",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "cut-mid-word",
+   "issue": "scene cut in the middle of a word",
+   "checks": [
+    "cuts"
+   ],
+   "look_for": "",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "music-duck",
+   "issue": "music too loud under the voice / never rises in gaps",
+   "checks": [
+    "music"
+   ],
+   "look_for": "",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "attribution",
+   "issue": "licence / attribution text burned into frames",
+   "checks": [
+    "burned-text"
+   ],
+   "look_for": "any credit, CC licence, ©, site name or URL drawn on the picture",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "debug-text",
+   "issue": "leftover debug / placeholder text (undefined, NaN, TODO, {{...}})",
+   "checks": [
+    "burned-text"
+   ],
+   "look_for": "placeholder, debug or template text, a raw id or file name on screen",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "caption-overlap",
+   "issue": "captions colliding with other text",
+   "checks": [
+    "text-layout",
+    "caption-band"
+   ],
+   "look_for": "a label, number or title touching or under the caption slip",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "caption-cut",
+   "issue": "captions cut off / outside the safe zone / low contrast",
+   "checks": [
+    "captions"
+   ],
+   "look_for": "a caption clipped at a frame edge or hidden by the Reels UI zone",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "frame-fill",
+   "issue": "large empty zones while content crowds one part of the 9:16 frame",
+   "checks": [
+    "balance"
+   ],
+   "look_for": "a big empty band (top/bottom third) while everything is crammed elsewhere",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "blur-grain",
+   "issue": "old-film blur / grain / vignette / scratches",
+   "checks": [
+    "static:no-film-effects"
+   ],
+   "look_for": "soft, blurred, grainy or vignetted frames that are not a transition",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "jank",
+   "issue": "jerky motion, frozen footage, sudden jumps",
+   "checks": [
+    "motion"
+   ],
+   "look_for": "",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "relevance",
+   "issue": "visual doesn't show what the line says (filler)",
+   "checks": [
+    "relevance"
+   ],
+   "look_for": "a picture that doesn't match its narration line",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "meaning",
+   "issue": "a staged action reads wrong (e.g. Arjuna aiming his drawn bow at Krishna)",
+   "checks": [],
+   "look_for": "characters doing something that contradicts the story or looks hostile/absurd",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "hidden-text",
+   "issue": "important text hidden under captions or other elements",
+   "checks": [
+    "caption-band"
+   ],
+   "look_for": "a label or number partly covered",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "cover",
+   "issue": "cover frame is a transition blur or unreadable",
+   "checks": [
+    "static:cover-picker"
+   ],
+   "look_for": "",
+   "since": "2026-11-22"
+  },
+  {
+   "id": "english-purity",
+   "issue": "Hindi/Hinglish words in an English script",
+   "checks": [
+    "lint"
+   ],
+   "look_for": "",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "weak-hook",
+   "issue": "weak opening hook (not the tournament winner / under the bar)",
+   "checks": [
+    "viral"
+   ],
+   "look_for": "",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "symlinks",
+   "issue": "iCloud replaced the .venv-tts / output symlinks (pipeline hangs)",
+   "checks": [
+    "static:check_links"
+   ],
+   "look_for": "",
+   "since": "2026-11-23"
+  },
+  {
+   "id": "mixed-style-bleed",
+   "issue": "mixed per scene: the base style's own version of a borrowed scene bleeds through dissolves",
+   "checks": [
+    "burned-text",
+    "text-layout"
+   ],
+   "look_for": "two scenes' text garbled together during a transition",
+   "since": "2026-11-24"
+  },
+  {
+   "id": "mixed-caption-zone",
+   "issue": "mixed per scene: captions not following the scene's own style zone (land on its stat/label/icon)",
+   "checks": [
+    "text-layout",
+    "captions"
+   ],
+   "look_for": "a caption sitting on a style's label, stat or main icon",
+   "since": "2026-11-24"
+  },
+  {
+   "id": "prop-text-under-caption",
+   "issue": "in-world prop text (clapper, sign, label) framed into the caption band in tight shots",
+   "checks": [
+    "text-layout"
+   ],
+   "look_for": "a caption sitting on top of text painted on a prop (clapperboard, sign, scoreboard)",
+   "since": "2026-11-24"
+  },
+  {
+   "id": "mirrored-text",
+   "issue": "reverse-angle shot mirrors the picture so in-world text reads backwards",
+   "checks": [],
+   "look_for": "any sign or label reading backwards",
+   "since": "2026-11-24"
+  }
+ ]
+}

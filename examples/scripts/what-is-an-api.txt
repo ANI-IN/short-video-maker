@@ -1,0 +1,16 @@
+# What is an *API*?
+What does an API actually do? Most developers use one every day, and still explain it badly.
+
+# Two apps, no *shared code*
+Your weather app can't read the weather service's code. It doesn't need to. It only needs a contract.
+
+# The *menu*
+An API is that contract: a menu one program offers another.
+- what you can ask for
+- what you send
+- what you get back
+
+# One *request*
+The app asks for today's forecast in Mumbai. The service checks the request and sends back the numbers. Nothing else is shared.
+
+Which API do you use most at work? Tell me in the comments.

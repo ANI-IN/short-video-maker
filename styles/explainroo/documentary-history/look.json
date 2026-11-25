@@ -1,0 +1,4 @@
+{ "extends": "editorial", "name": "parchment", "bg": "#e9dcbf", "ink": "#2b2118", "muted": "#6b5a44", "accent": "red",
+  "colors": { "red": "#8b1e1e", "orange": "#a45a1c", "blue": "#2c4a6b", "green": "#3f5d3a", "yellow": "#b0892e" },
+  "background": "plain", "transition": "fade", "music": "calm",
+  "fonts": { "display": { "family": "Instrument Serif", "weight": 400 } } }

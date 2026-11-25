@@ -1,0 +1,23 @@
+# secrets
+.env
+# environments and dependencies
+.venv
+.venv.nosync/
+.venv-tts
+.venv-tts.nosync/
+node_modules
+node_modules.nosync/
+# third-party engine, cloned by install.py
+/explainroo/
+# generated
+/output
+/output.nosync/
+/styles/remotion/public/jobs/
+/styles/remotion/out/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+# local editor / agent state
+.claude/launch.json
+.claude/settings.local.json

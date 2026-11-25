@@ -1,0 +1,59 @@
+{
+  "title": "Coffee timing",
+  "slug": "style-sample",
+  "topic": "When coffee kicks in",
+  "hook_pattern": "surprising-number",
+  "scenes": [
+    {
+      "id": "hook",
+      "role": "hook",
+      "narration": {
+        "en": "Coffee reaches your brain in just ten minutes.",
+        "hi": "कॉफ़ी सिर्फ़ दस मिनट में दिमाग़ तक पहुँचती है।"
+      },
+      "headline": { "en": "Coffee hits in *10 minutes*", "hi": "कॉफ़ी *10 मिनट* में असर" },
+      "emoji": "☕",
+      "icon": "coffee",
+      "stat": { "value": 10, "suffix": { "en": " min", "hi": " मिनट" }, "label": { "en": "to kick in", "hi": "असर में" } },
+      "chart": { "type": "bar", "items": [
+        { "label": { "en": "10 min", "hi": "10 मि" }, "value": 30 },
+        { "label": { "en": "30 min", "hi": "30 मि" }, "value": 80 },
+        { "label": { "en": "1 hour", "hi": "1 घंटा" }, "value": 100 }
+      ] },
+      "compare": {
+        "left": { "title": { "en": "7 AM", "hi": "सुबह 7" }, "emoji": "😴", "points": [{ "en": "Too early", "hi": "बहुत जल्दी" }] },
+        "right": { "title": { "en": "9 AM", "hi": "सुबह 9" }, "emoji": "⚡", "points": [{ "en": "Just right", "hi": "बिल्कुल सही" }] }
+      },
+      "places": [
+        { "name": { "en": "Ethiopia", "hi": "इथियोपिया" }, "lat": 9.1, "lon": 40.5 },
+        { "name": { "en": "Brazil", "hi": "ब्राज़ील" }, "lat": -14.2, "lon": -51.9 },
+        { "name": { "en": "India", "hi": "भारत" }, "lat": 12.9, "lon": 75.6 }
+      ]
+    },
+    {
+      "id": "payoff",
+      "role": "payoff",
+      "narration": {
+        "en": "Time it right and feel sharper.",
+        "hi": "सही समय पर पिएँ, ज़्यादा तेज़ महसूस करें।"
+      },
+      "headline": { "en": "Time it *right*", "hi": "सही *समय* चुनें" },
+      "emoji": "⏰",
+      "icon": "alarm-clock",
+      "items": [
+        { "en": "Wake up", "hi": "उठें" },
+        { "en": "Wait 90 min", "hi": "90 मिनट रुकें" },
+        { "en": "Then coffee", "hi": "फिर कॉफ़ी" }
+      ],
+      "steps": [
+        { "date": "7:00", "label": { "en": "Wake", "hi": "उठना" } },
+        { "date": "8:30", "label": { "en": "Coffee", "hi": "कॉफ़ी" } },
+        { "date": "8:40", "label": { "en": "Focus", "hi": "फ़ोकस" } }
+      ],
+      "chart": { "type": "pie", "items": [
+        { "label": { "en": "Focus", "hi": "फ़ोकस" }, "value": 70 },
+        { "label": { "en": "Jitters", "hi": "बेचैनी" }, "value": 30 }
+      ] }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+{ "extends": "paper", "name": "whiteboard", "bg": "#fbfbf8", "ink": "#1c2430", "muted": "#5a6472", "accent": "blue",
+  "colors": { "blue": "#1f5fbf", "red": "#d1352b", "green": "#1e8a4c" }, "background": "plain", "transition": "fade", "music": "warm" }

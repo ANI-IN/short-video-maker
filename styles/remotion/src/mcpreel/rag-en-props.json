@@ -1,0 +1,1827 @@
+{
+ "words": [
+  {
+   "cap": "Interview",
+   "voice": "Interview",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 0.0,
+   "e": 0.406
+  },
+  {
+   "cap": "question:",
+   "voice": "question:",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 0.464,
+   "e": 1.103
+  },
+  {
+   "cap": "what's",
+   "voice": "what's",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 1.614,
+   "e": 1.846
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 1.892,
+   "e": 1.962
+  },
+  {
+   "cap": "difference",
+   "voice": "difference",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 2.02,
+   "e": 2.368
+  },
+  {
+   "cap": "between",
+   "voice": "between",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 2.403,
+   "e": 2.705
+  },
+  {
+   "cap": "RAG",
+   "voice": "RAG",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 2.775,
+   "e": 3.111
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 3.158,
+   "e": 3.228
+  },
+  {
+   "cap": "fine-tuning?",
+   "voice": "fine-tuning?",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 3.297,
+   "e": 4.063
+  },
+  {
+   "cap": "You",
+   "voice": "You",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 4.76,
+   "e": 4.888
+  },
+  {
+   "cap": "said,",
+   "voice": "said,",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 4.957,
+   "e": 5.317
+  },
+  {
+   "cap": "both",
+   "voice": "both",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 5.526,
+   "e": 5.793
+  },
+  {
+   "cap": "make",
+   "voice": "make",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 5.863,
+   "e": 6.037
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 6.072,
+   "e": 6.153
+  },
+  {
+   "cap": "AI",
+   "voice": "AI",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 6.235,
+   "e": 6.536
+  },
+  {
+   "cap": "smarter.",
+   "voice": "smarter.",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 6.618,
+   "e": 7.233
+  },
+  {
+   "cap": "Not",
+   "voice": "Not",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 7.616,
+   "e": 7.802
+  },
+  {
+   "cap": "wrong,",
+   "voice": "wrong,",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 7.837,
+   "e": 8.255
+  },
+  {
+   "cap": "but",
+   "voice": "but",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 8.429,
+   "e": 8.591
+  },
+  {
+   "cap": "incomplete.",
+   "voice": "incomplete.",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 8.649,
+   "e": 9.416
+  },
+  {
+   "cap": "You",
+   "voice": "You",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.019,
+   "e": 10.147
+  },
+  {
+   "cap": "have",
+   "voice": "have",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.228,
+   "e": 10.368
+  },
+  {
+   "cap": "to",
+   "voice": "to",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.403,
+   "e": 10.449
+  },
+  {
+   "cap": "build",
+   "voice": "build",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.519,
+   "e": 10.704
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.751,
+   "e": 10.855
+  },
+  {
+   "cap": "company's",
+   "voice": "company's",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.913,
+   "e": 11.308
+  },
+  {
+   "cap": "HR",
+   "voice": "HR",
+   "sent": 3,
+   "chapter": "task",
+   "s": 11.378,
+   "e": 11.749
+  },
+  {
+   "cap": "bot,",
+   "voice": "bot,",
+   "sent": 3,
+   "chapter": "task",
+   "s": 11.796,
+   "e": 12.202
+  },
+  {
+   "cap": "one",
+   "voice": "one",
+   "sent": 3,
+   "chapter": "task",
+   "s": 12.446,
+   "e": 12.62
+  },
+  {
+   "cap": "that",
+   "voice": "that",
+   "sent": 3,
+   "chapter": "task",
+   "s": 12.643,
+   "e": 12.748
+  },
+  {
+   "cap": "reads",
+   "voice": "reads",
+   "sent": 3,
+   "chapter": "task",
+   "s": 12.817,
+   "e": 13.061
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 3,
+   "chapter": "task",
+   "s": 13.108,
+   "e": 13.177
+  },
+  {
+   "cap": "leave",
+   "voice": "leave",
+   "sent": 3,
+   "chapter": "task",
+   "s": 13.247,
+   "e": 13.468
+  },
+  {
+   "cap": "policy",
+   "voice": "policy",
+   "sent": 3,
+   "chapter": "task",
+   "s": 13.502,
+   "e": 13.874
+  },
+  {
+   "cap": "PDFs",
+   "voice": "PDFs",
+   "sent": 3,
+   "chapter": "task",
+   "s": 13.932,
+   "e": 14.443
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 3,
+   "chapter": "task",
+   "s": 14.617,
+   "e": 14.814
+  },
+  {
+   "cap": "answers",
+   "voice": "answers",
+   "sent": 3,
+   "chapter": "task",
+   "s": 14.884,
+   "e": 15.232
+  },
+  {
+   "cap": "questions.",
+   "voice": "questions.",
+   "sent": 3,
+   "chapter": "task",
+   "s": 15.278,
+   "e": 15.987
+  },
+  {
+   "cap": "But",
+   "voice": "But",
+   "sent": 4,
+   "chapter": "task",
+   "s": 16.497,
+   "e": 16.66
+  },
+  {
+   "cap": "ChatGPT",
+   "voice": "ChatGPT",
+   "sent": 4,
+   "chapter": "task",
+   "s": 16.718,
+   "e": 17.368
+  },
+  {
+   "cap": "has",
+   "voice": "has",
+   "sent": 4,
+   "chapter": "task",
+   "s": 17.461,
+   "e": 17.577
+  },
+  {
+   "cap": "never",
+   "voice": "never",
+   "sent": 4,
+   "chapter": "task",
+   "s": 17.693,
+   "e": 17.937
+  },
+  {
+   "cap": "seen",
+   "voice": "seen",
+   "sent": 4,
+   "chapter": "task",
+   "s": 17.984,
+   "e": 18.169
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 4,
+   "chapter": "task",
+   "s": 18.204,
+   "e": 18.309
+  },
+  {
+   "cap": "PDFs.",
+   "voice": "PDFs.",
+   "sent": 4,
+   "chapter": "task",
+   "s": 18.355,
+   "e": 18.982
+  },
+  {
+   "cap": "So",
+   "voice": "So",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 19.156,
+   "e": 19.319
+  },
+  {
+   "cap": "it",
+   "voice": "it",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 19.388,
+   "e": 19.446
+  },
+  {
+   "cap": "guesses,",
+   "voice": "guesses,",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 19.504,
+   "e": 20.166
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 20.34,
+   "e": 20.468
+  },
+  {
+   "cap": "says",
+   "voice": "says",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 20.526,
+   "e": 20.724
+  },
+  {
+   "cap": "wrong",
+   "voice": "wrong",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 20.782,
+   "e": 21.014
+  },
+  {
+   "cap": "things",
+   "voice": "things",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 21.083,
+   "e": 21.327
+  },
+  {
+   "cap": "with",
+   "voice": "with",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 21.362,
+   "e": 21.49
+  },
+  {
+   "cap": "full",
+   "voice": "full",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 21.548,
+   "e": 21.757
+  },
+  {
+   "cap": "confidence.",
+   "voice": "confidence.",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 21.815,
+   "e": 22.465
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 22.848,
+   "e": 23.069
+  },
+  {
+   "cap": "called",
+   "voice": "called",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 23.115,
+   "e": 23.359
+  },
+  {
+   "cap": "hallucination.",
+   "voice": "hallucination.",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 23.417,
+   "e": 24.381
+  },
+  {
+   "cap": "Retrain",
+   "voice": "Retrain",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 25.077,
+   "e": 25.53
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 25.588,
+   "e": 25.658
+  },
+  {
+   "cap": "model",
+   "voice": "model",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 25.716,
+   "e": 25.983
+  },
+  {
+   "cap": "for",
+   "voice": "for",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 26.041,
+   "e": 26.157
+  },
+  {
+   "cap": "every",
+   "voice": "every",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 26.25,
+   "e": 26.54
+  },
+  {
+   "cap": "new",
+   "voice": "new",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 26.587,
+   "e": 26.703
+  },
+  {
+   "cap": "PDF?",
+   "voice": "PDF?",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 26.761,
+   "e": 27.411
+  },
+  {
+   "cap": "Expensive,",
+   "voice": "Expensive,",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 27.736,
+   "e": 28.525
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 28.7,
+   "e": 28.85
+  },
+  {
+   "cap": "slow.",
+   "voice": "slow.",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 28.92,
+   "e": 29.431
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 29.942,
+   "e": 30.151
+  },
+  {
+   "cap": "why",
+   "voice": "why",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 30.174,
+   "e": 30.279
+  },
+  {
+   "cap": "RAG",
+   "voice": "RAG",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 30.36,
+   "e": 30.592
+  },
+  {
+   "cap": "exists:",
+   "voice": "exists:",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 30.638,
+   "e": 31.242
+  },
+  {
+   "cap": "Retrieval",
+   "voice": "Retrieval",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 31.683,
+   "e": 32.183
+  },
+  {
+   "cap": "Augmented",
+   "voice": "Augmented",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 32.276,
+   "e": 32.752
+  },
+  {
+   "cap": "Generation.",
+   "voice": "Generation.",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 32.787,
+   "e": 33.53
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 34.133,
+   "e": 34.273
+  },
+  {
+   "cap": "idea",
+   "voice": "idea",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 34.342,
+   "e": 34.621
+  },
+  {
+   "cap": "came",
+   "voice": "came",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 34.691,
+   "e": 34.888
+  },
+  {
+   "cap": "from",
+   "voice": "from",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 34.923,
+   "e": 35.039
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 35.085,
+   "e": 35.109
+  },
+  {
+   "cap": "2020",
+   "voice": "2020",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 35.19,
+   "e": 35.968
+  },
+  {
+   "cap": "paper",
+   "voice": "paper",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 36.038,
+   "e": 36.305
+  },
+  {
+   "cap": "by",
+   "voice": "by",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 36.363,
+   "e": 36.49
+  },
+  {
+   "cap": "Facebook",
+   "voice": "Facebook",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 36.583,
+   "e": 37.036
+  },
+  {
+   "cap": "AI.",
+   "voice": "AI.",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 37.117,
+   "e": 37.756
+  },
+  {
+   "cap": "First,",
+   "voice": "First,",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 38.452,
+   "e": 38.986
+  },
+  {
+   "cap": "cut",
+   "voice": "cut",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 39.161,
+   "e": 39.335
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 39.37,
+   "e": 39.439
+  },
+  {
+   "cap": "PDFs",
+   "voice": "PDFs",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 39.486,
+   "e": 39.95
+  },
+  {
+   "cap": "into",
+   "voice": "into",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 39.985,
+   "e": 40.124
+  },
+  {
+   "cap": "small",
+   "voice": "small",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 40.205,
+   "e": 40.484
+  },
+  {
+   "cap": "chunks.",
+   "voice": "chunks.",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 40.554,
+   "e": 41.099
+  },
+  {
+   "cap": "Turn",
+   "voice": "Turn",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 41.703,
+   "e": 41.959
+  },
+  {
+   "cap": "each",
+   "voice": "each",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 41.993,
+   "e": 42.168
+  },
+  {
+   "cap": "chunk",
+   "voice": "chunk",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 42.226,
+   "e": 42.527
+  },
+  {
+   "cap": "into",
+   "voice": "into",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 42.597,
+   "e": 42.771
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 42.853,
+   "e": 42.876
+  },
+  {
+   "cap": "list",
+   "voice": "list",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 42.945,
+   "e": 43.143
+  },
+  {
+   "cap": "of",
+   "voice": "of",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 43.178,
+   "e": 43.236
+  },
+  {
+   "cap": "numbers,",
+   "voice": "numbers,",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 43.352,
+   "e": 43.77
+  },
+  {
+   "cap": "called",
+   "voice": "called",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 43.805,
+   "e": 44.106
+  },
+  {
+   "cap": "an",
+   "voice": "an",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 44.223,
+   "e": 44.385
+  },
+  {
+   "cap": "embedding.",
+   "voice": "embedding.",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 44.432,
+   "e": 45.024
+  },
+  {
+   "cap": "Chunks",
+   "voice": "Chunks",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 45.976,
+   "e": 46.289
+  },
+  {
+   "cap": "with",
+   "voice": "with",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 46.324,
+   "e": 46.452
+  },
+  {
+   "cap": "similar",
+   "voice": "similar",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 46.51,
+   "e": 46.881
+  },
+  {
+   "cap": "meaning",
+   "voice": "meaning",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 46.951,
+   "e": 47.195
+  },
+  {
+   "cap": "get",
+   "voice": "get",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 47.253,
+   "e": 47.392
+  },
+  {
+   "cap": "numbers",
+   "voice": "numbers",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 47.473,
+   "e": 47.798
+  },
+  {
+   "cap": "that",
+   "voice": "that",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 47.845,
+   "e": 47.973
+  },
+  {
+   "cap": "sit",
+   "voice": "sit",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 48.042,
+   "e": 48.228
+  },
+  {
+   "cap": "close",
+   "voice": "close",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 48.286,
+   "e": 48.565
+  },
+  {
+   "cap": "together.",
+   "voice": "together.",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 48.588,
+   "e": 49.145
+  },
+  {
+   "cap": "Store",
+   "voice": "Store",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 49.749,
+   "e": 50.016
+  },
+  {
+   "cap": "them",
+   "voice": "them",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 50.051,
+   "e": 50.155
+  },
+  {
+   "cap": "all",
+   "voice": "all",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 50.19,
+   "e": 50.318
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 50.364,
+   "e": 50.411
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 50.446,
+   "e": 50.469
+  },
+  {
+   "cap": "vector",
+   "voice": "vector",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 50.527,
+   "e": 50.794
+  },
+  {
+   "cap": "database.",
+   "voice": "database.",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 50.852,
+   "e": 51.537
+  },
+  {
+   "cap": "Now",
+   "voice": "Now",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 52.234,
+   "e": 52.408
+  },
+  {
+   "cap": "an",
+   "voice": "an",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 52.466,
+   "e": 52.512
+  },
+  {
+   "cap": "employee",
+   "voice": "employee",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 52.535,
+   "e": 52.884
+  },
+  {
+   "cap": "asks:",
+   "voice": "asks:",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 52.93,
+   "e": 53.429
+  },
+  {
+   "cap": "how",
+   "voice": "how",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 53.546,
+   "e": 53.662
+  },
+  {
+   "cap": "many",
+   "voice": "many",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 53.696,
+   "e": 53.847
+  },
+  {
+   "cap": "leaves",
+   "voice": "leaves",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 53.929,
+   "e": 54.172
+  },
+  {
+   "cap": "do",
+   "voice": "do",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 54.207,
+   "e": 54.289
+  },
+  {
+   "cap": "I",
+   "voice": "I",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 54.37,
+   "e": 54.405
+  },
+  {
+   "cap": "get?",
+   "voice": "get?",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 54.498,
+   "e": 54.869
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 55.566,
+   "e": 55.67
+  },
+  {
+   "cap": "question",
+   "voice": "question",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 55.728,
+   "e": 56.042
+  },
+  {
+   "cap": "becomes",
+   "voice": "becomes",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 56.088,
+   "e": 56.39
+  },
+  {
+   "cap": "an",
+   "voice": "an",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 56.436,
+   "e": 56.483
+  },
+  {
+   "cap": "embedding",
+   "voice": "embedding",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 56.518,
+   "e": 56.866
+  },
+  {
+   "cap": "too,",
+   "voice": "too,",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 56.912,
+   "e": 57.319
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 57.493,
+   "e": 57.621
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 57.667,
+   "e": 57.737
+  },
+  {
+   "cap": "database",
+   "voice": "database",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 57.772,
+   "e": 58.189
+  },
+  {
+   "cap": "pulls",
+   "voice": "pulls",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 58.224,
+   "e": 58.457
+  },
+  {
+   "cap": "out",
+   "voice": "out",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 58.491,
+   "e": 58.607
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 58.631,
+   "e": 58.7
+  },
+  {
+   "cap": "three",
+   "voice": "three",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 58.747,
+   "e": 58.967
+  },
+  {
+   "cap": "closest",
+   "voice": "closest",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 59.002,
+   "e": 59.374
+  },
+  {
+   "cap": "chunks.",
+   "voice": "chunks.",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 59.409,
+   "e": 59.966
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 60.779,
+   "e": 61.022
+  },
+  {
+   "cap": "Retrieval.",
+   "voice": "Retrieval.",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 61.069,
+   "e": 61.765
+  },
+  {
+   "cap": "Those",
+   "voice": "Those",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 62.044,
+   "e": 62.288
+  },
+  {
+   "cap": "chunks",
+   "voice": "chunks",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 62.323,
+   "e": 62.566
+  },
+  {
+   "cap": "go",
+   "voice": "go",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 62.613,
+   "e": 62.706
+  },
+  {
+   "cap": "to",
+   "voice": "to",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 62.741,
+   "e": 62.787
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 62.822,
+   "e": 62.891
+  },
+  {
+   "cap": "LLM",
+   "voice": "LLM",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 62.949,
+   "e": 63.356
+  },
+  {
+   "cap": "along",
+   "voice": "along",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 63.414,
+   "e": 63.611
+  },
+  {
+   "cap": "with",
+   "voice": "with",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 63.634,
+   "e": 63.727
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 63.75,
+   "e": 63.82
+  },
+  {
+   "cap": "question.",
+   "voice": "question.",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 63.843,
+   "e": 64.447
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 64.726,
+   "e": 64.981
+  },
+  {
+   "cap": "Augmented.",
+   "voice": "Augmented.",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 65.027,
+   "e": 65.631
+  },
+  {
+   "cap": "And",
+   "voice": "And",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.014,
+   "e": 66.154
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.2,
+   "e": 66.281
+  },
+  {
+   "cap": "LLM",
+   "voice": "LLM",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.363,
+   "e": 66.804
+  },
+  {
+   "cap": "writes",
+   "voice": "writes",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.862,
+   "e": 67.106
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 67.14,
+   "e": 67.21
+  },
+  {
+   "cap": "answer",
+   "voice": "answer",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 67.28,
+   "e": 67.547
+  },
+  {
+   "cap": "from",
+   "voice": "from",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 67.605,
+   "e": 67.767
+  },
+  {
+   "cap": "them,",
+   "voice": "them,",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 67.814,
+   "e": 68.127
+  },
+  {
+   "cap": "with",
+   "voice": "with",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 68.278,
+   "e": 68.452
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 68.487,
+   "e": 68.557
+  },
+  {
+   "cap": "source.",
+   "voice": "source.",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 68.603,
+   "e": 69.114
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 69.718,
+   "e": 69.962
+  },
+  {
+   "cap": "Generation.",
+   "voice": "Generation.",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 70.02,
+   "e": 70.809
+  },
+  {
+   "cap": "So",
+   "voice": "So",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 71.32,
+   "e": 71.517
+  },
+  {
+   "cap": "fine-tuning",
+   "voice": "fine-tuning",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 71.599,
+   "e": 72.179
+  },
+  {
+   "cap": "changes",
+   "voice": "changes",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 72.237,
+   "e": 72.586
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 72.62,
+   "e": 72.69
+  },
+  {
+   "cap": "model's",
+   "voice": "model's",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 72.725,
+   "e": 73.004
+  },
+  {
+   "cap": "style,",
+   "voice": "style,",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 73.027,
+   "e": 73.572
+  },
+  {
+   "cap": "while",
+   "voice": "while",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 73.723,
+   "e": 74.002
+  },
+  {
+   "cap": "RAG",
+   "voice": "RAG",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 74.06,
+   "e": 74.304
+  },
+  {
+   "cap": "gives",
+   "voice": "gives",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 74.35,
+   "e": 74.524
+  },
+  {
+   "cap": "it",
+   "voice": "it",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 74.571,
+   "e": 74.629
+  },
+  {
+   "cap": "fresh",
+   "voice": "fresh",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 74.687,
+   "e": 74.942
+  },
+  {
+   "cap": "knowledge.",
+   "voice": "knowledge.",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 74.989,
+   "e": 75.569
+  },
+  {
+   "cap": "Now",
+   "voice": "Now",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 76.266,
+   "e": 76.417
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 76.475,
+   "e": 76.591
+  },
+  {
+   "cap": "turn:",
+   "voice": "turn:",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 76.626,
+   "e": 77.067
+  },
+  {
+   "cap": "would",
+   "voice": "would",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 77.45,
+   "e": 77.636
+  },
+  {
+   "cap": "you",
+   "voice": "you",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 77.659,
+   "e": 77.729
+  },
+  {
+   "cap": "keep",
+   "voice": "keep",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 77.775,
+   "e": 77.949
+  },
+  {
+   "cap": "chunks",
+   "voice": "chunks",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 78.007,
+   "e": 78.263
+  },
+  {
+   "cap": "small",
+   "voice": "small",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 78.298,
+   "e": 78.588
+  },
+  {
+   "cap": "or",
+   "voice": "or",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 78.658,
+   "e": 78.762
+  },
+  {
+   "cap": "big,",
+   "voice": "big,",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 78.82,
+   "e": 79.226
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 79.401,
+   "e": 79.54
+  },
+  {
+   "cap": "why?",
+   "voice": "why?",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 79.598,
+   "e": 80.039
+  },
+  {
+   "cap": "Tell",
+   "voice": "Tell",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 80.364,
+   "e": 80.55
+  },
+  {
+   "cap": "me",
+   "voice": "me",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 80.585,
+   "e": 80.631
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 80.666,
+   "e": 80.713
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 80.747,
+   "e": 80.817
+  },
+  {
+   "cap": "comments.",
+   "voice": "comments.",
+   "sent": 17,
+   "chapter": "cta",
+   "s": 80.84,
+   "e": 81.595
+  }
+ ],
+ "duration": 82.595,
+ "audio": "ragreel-en/voiceover.mp3",
+ "brand": "AI EXPLAINED",
+ "series": "SYSTEM DESIGN · 02",
+ "lang": "en",
+ "map": [
+  0,
+  0,
+  1,
+  4,
+  6,
+  7,
+  8,
+  8,
+  8,
+  8,
+  8,
+  9,
+  10,
+  11,
+  13,
+  14,
+  15,
+  15,
+  15,
+  17,
+  18,
+  18,
+  19,
+  20,
+  25,
+  26,
+  26,
+  27,
+  28,
+  27,
+  31,
+  32,
+  33,
+  34,
+  34,
+  36,
+  36,
+  36,
+  37,
+  38,
+  39,
+  41,
+  42,
+  40,
+  44,
+  44,
+  44,
+  44,
+  45,
+  45,
+  47,
+  47,
+  48,
+  49,
+  49,
+  50,
+  52,
+  54,
+  55,
+  57,
+  57,
+  57,
+  58,
+  63,
+  64,
+  64,
+  64,
+  64,
+  64,
+  64,
+  65,
+  66,
+  67,
+  67,
+  68,
+  69,
+  70,
+  72,
+  73,
+  74,
+  75,
+  76,
+  80,
+  82,
+  83,
+  84,
+  84,
+  84,
+  84,
+  84,
+  84,
+  85,
+  88,
+  89,
+  90,
+  87,
+  91,
+  91,
+  92,
+  94,
+  96,
+  99,
+  100,
+  100,
+  101,
+  102,
+  102,
+  102,
+  103,
+  103,
+  103,
+  103,
+  103,
+  105,
+  108,
+  111,
+  110,
+  111,
+  112,
+  113,
+  116,
+  118,
+  119,
+  119,
+  119,
+  119,
+  120,
+  122,
+  123,
+  124,
+  124,
+  125,
+  126,
+  127,
+  129,
+  131,
+  132,
+  133,
+  134,
+  135,
+  136,
+  137,
+  138,
+  143,
+  143,
+  144,
+  144,
+  144,
+  144,
+  145,
+  145,
+  146,
+  146,
+  147,
+  148,
+  156,
+  156,
+  156,
+  152,
+  157,
+  157,
+  157,
+  157,
+  157,
+  158,
+  158,
+  159,
+  161,
+  162,
+  162,
+  163,
+  163,
+  164,
+  166,
+  167,
+  169,
+  169,
+  170,
+  170,
+  171,
+  171,
+  172,
+  173,
+  176,
+  176,
+  177,
+  178,
+  178,
+  178,
+  179,
+  180,
+  182,
+  183,
+  183,
+  183,
+  184,
+  188,
+  200,
+  200,
+  191,
+  200,
+  200,
+  193,
+  200,
+  200,
+  196,
+  200,
+  200
+ ]
+}

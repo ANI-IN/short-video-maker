@@ -1,0 +1,12 @@
+{
+ "_about": "Per-language Whisper check limits for the narration (character error rate a take may have before it is requested again). Voices live in config/voices.json; their delivery is never changed.",
+ "en": {
+  "cer_max": 0.08
+ },
+ "hi": {
+  "cer_max": 0.14
+ },
+ "hl": {
+  "cer_max": 0.16
+ }
+}

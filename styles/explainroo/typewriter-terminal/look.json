@@ -1,0 +1,4 @@
+{ "extends": "midnight", "name": "terminal-green", "dark": true, "bg": "#07100a", "ink": "#b6ffcb", "muted": "#5fbf7a",
+  "surface": "#0d1f13", "accent": "green", "colors": { "green": "#39ff7a", "teal": "#2de2c8", "yellow": "#f5ff6b" },
+  "background": "grid", "transition": "fade", "music": "tech",
+  "fonts": { "display": { "family": "JetBrains Mono", "weight": 400 }, "body": { "family": "JetBrains Mono", "weight": 400 } } }

@@ -1,0 +1,1908 @@
+{
+ "words": [
+  {
+   "cap": "Interview",
+   "voice": "Interview",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 0.0,
+   "e": 0.406
+  },
+  {
+   "cap": "question:",
+   "voice": "question:",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 0.453,
+   "e": 1.045
+  },
+  {
+   "cap": "you",
+   "voice": "you",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 1.486,
+   "e": 1.579
+  },
+  {
+   "cap": "send",
+   "voice": "send",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 1.66,
+   "e": 1.858
+  },
+  {
+   "cap": "50",
+   "voice": "50",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 1.927,
+   "e": 2.194
+  },
+  {
+   "cap": "rupees",
+   "voice": "rupees",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 2.276,
+   "e": 2.635
+  },
+  {
+   "cap": "on",
+   "voice": "on",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 2.705,
+   "e": 2.821
+  },
+  {
+   "cap": "UPI.",
+   "voice": "UPI.",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 2.914,
+   "e": 3.634
+  },
+  {
+   "cap": "What",
+   "voice": "What",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 3.878,
+   "e": 4.04
+  },
+  {
+   "cap": "happens",
+   "voice": "happens",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 4.087,
+   "e": 4.4
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 4.435,
+   "e": 4.493
+  },
+  {
+   "cap": "between?",
+   "voice": "between?",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 4.54,
+   "e": 5.027
+  },
+  {
+   "cap": "You",
+   "voice": "You",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 5.352,
+   "e": 5.48
+  },
+  {
+   "cap": "said,",
+   "voice": "said,",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 5.55,
+   "e": 5.898
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 6.072,
+   "e": 6.177
+  },
+  {
+   "cap": "money",
+   "voice": "money",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 6.223,
+   "e": 6.397
+  },
+  {
+   "cap": "just",
+   "voice": "just",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 6.455,
+   "e": 6.629
+  },
+  {
+   "cap": "goes.",
+   "voice": "goes.",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 6.687,
+   "e": 7.233
+  },
+  {
+   "cap": "Sure,",
+   "voice": "Sure,",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 8.185,
+   "e": 8.522
+  },
+  {
+   "cap": "but",
+   "voice": "but",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 8.557,
+   "e": 8.684
+  },
+  {
+   "cap": "how?",
+   "voice": "how?",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 8.742,
+   "e": 9.137
+  },
+  {
+   "cap": "Let's",
+   "voice": "Let's",
+   "sent": 2,
+   "chapter": "task",
+   "s": 9.462,
+   "e": 9.671
+  },
+  {
+   "cap": "pay",
+   "voice": "pay",
+   "sent": 2,
+   "chapter": "task",
+   "s": 9.718,
+   "e": 9.834
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 2,
+   "chapter": "task",
+   "s": 9.88,
+   "e": 9.95
+  },
+  {
+   "cap": "tea",
+   "voice": "tea",
+   "sent": 2,
+   "chapter": "task",
+   "s": 9.985,
+   "e": 10.147
+  },
+  {
+   "cap": "seller",
+   "voice": "seller",
+   "sent": 2,
+   "chapter": "task",
+   "s": 10.194,
+   "e": 10.472
+  },
+  {
+   "cap": "50",
+   "voice": "50",
+   "sent": 2,
+   "chapter": "task",
+   "s": 10.588,
+   "e": 10.844
+  },
+  {
+   "cap": "rupees.",
+   "voice": "rupees.",
+   "sent": 2,
+   "chapter": "task",
+   "s": 10.913,
+   "e": 11.471
+  },
+  {
+   "cap": "Scan,",
+   "voice": "Scan,",
+   "sent": 2,
+   "chapter": "task",
+   "s": 11.714,
+   "e": 12.295
+  },
+  {
+   "cap": "enter",
+   "voice": "enter",
+   "sent": 2,
+   "chapter": "task",
+   "s": 12.539,
+   "e": 12.783
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 2,
+   "chapter": "task",
+   "s": 12.829,
+   "e": 12.899
+  },
+  {
+   "cap": "amount,",
+   "voice": "amount,",
+   "sent": 2,
+   "chapter": "task",
+   "s": 12.957,
+   "e": 13.456
+  },
+  {
+   "cap": "enter",
+   "voice": "enter",
+   "sent": 2,
+   "chapter": "task",
+   "s": 13.665,
+   "e": 13.92
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 2,
+   "chapter": "task",
+   "s": 13.978,
+   "e": 14.071
+  },
+  {
+   "cap": "PIN.",
+   "voice": "PIN.",
+   "sent": 2,
+   "chapter": "task",
+   "s": 14.118,
+   "e": 14.547
+  },
+  {
+   "cap": "Done.",
+   "voice": "Done.",
+   "sent": 2,
+   "chapter": "task",
+   "s": 14.791,
+   "e": 15.186
+  },
+  {
+   "cap": "But",
+   "voice": "But",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 15.79,
+   "e": 15.94
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 15.975,
+   "e": 16.045
+  },
+  {
+   "cap": "October",
+   "voice": "October",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 16.103,
+   "e": 16.509
+  },
+  {
+   "cap": "2026,",
+   "voice": "2026,",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 16.567,
+   "e": 17.438
+  },
+  {
+   "cap": "UPI",
+   "voice": "UPI",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 17.508,
+   "e": 17.879
+  },
+  {
+   "cap": "handled",
+   "voice": "handled",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 17.972,
+   "e": 18.262
+  },
+  {
+   "cap": "more",
+   "voice": "more",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 18.309,
+   "e": 18.448
+  },
+  {
+   "cap": "than",
+   "voice": "than",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 18.471,
+   "e": 18.587
+  },
+  {
+   "cap": "2,500",
+   "voice": "two-thousand-five-hundred",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 18.645,
+   "e": 19.864
+  },
+  {
+   "cap": "crore",
+   "voice": "crore",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 19.922,
+   "e": 20.178
+  },
+  {
+   "cap": "transactions.",
+   "voice": "transactions.",
+   "sent": 3,
+   "chapter": "problem",
+   "s": 20.201,
+   "e": 21.06
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 21.571,
+   "e": 21.78
+  },
+  {
+   "cap": "about",
+   "voice": "about",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 21.803,
+   "e": 21.977
+  },
+  {
+   "cap": "82",
+   "voice": "82",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 22.059,
+   "e": 22.419
+  },
+  {
+   "cap": "crore",
+   "voice": "crore",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 22.488,
+   "e": 22.802
+  },
+  {
+   "cap": "every",
+   "voice": "every",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 22.871,
+   "e": 23.185
+  },
+  {
+   "cap": "single",
+   "voice": "single",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 23.254,
+   "e": 23.545
+  },
+  {
+   "cap": "day.",
+   "voice": "day.",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 23.579,
+   "e": 23.951
+  },
+  {
+   "cap": "Each",
+   "voice": "Each",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 24.555,
+   "e": 24.764
+  },
+  {
+   "cap": "one",
+   "voice": "one",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 24.833,
+   "e": 24.984
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 25.019,
+   "e": 25.066
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 25.1,
+   "e": 25.124
+  },
+  {
+   "cap": "few",
+   "voice": "few",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 25.182,
+   "e": 25.333
+  },
+  {
+   "cap": "seconds.",
+   "voice": "seconds.",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 25.391,
+   "e": 26.041
+  },
+  {
+   "cap": "How?",
+   "voice": "How?",
+   "sent": 4,
+   "chapter": "problem",
+   "s": 26.645,
+   "e": 27.155
+  },
+  {
+   "cap": "First,",
+   "voice": "First,",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 27.968,
+   "e": 28.432
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 28.491,
+   "e": 28.641
+  },
+  {
+   "cap": "app,",
+   "voice": "app,",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 28.711,
+   "e": 29.129
+  },
+  {
+   "cap": "like",
+   "voice": "like",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 29.245,
+   "e": 29.408
+  },
+  {
+   "cap": "PhonePe",
+   "voice": "PhonePe",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 29.454,
+   "e": 30.081
+  },
+  {
+   "cap": "or",
+   "voice": "or",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 30.151,
+   "e": 30.302
+  },
+  {
+   "cap": "GPay.",
+   "voice": "GPay.",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 30.371,
+   "e": 31.056
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 31.753,
+   "e": 31.881
+  },
+  {
+   "cap": "app",
+   "voice": "app",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 31.927,
+   "e": 32.09
+  },
+  {
+   "cap": "never",
+   "voice": "never",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 32.148,
+   "e": 32.322
+  },
+  {
+   "cap": "holds",
+   "voice": "holds",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 32.368,
+   "e": 32.589
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 32.624,
+   "e": 32.728
+  },
+  {
+   "cap": "money,",
+   "voice": "money,",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 32.763,
+   "e": 33.123
+  },
+  {
+   "cap": "it",
+   "voice": "it",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 33.402,
+   "e": 33.529
+  },
+  {
+   "cap": "passes",
+   "voice": "passes",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 33.576,
+   "e": 33.924
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 33.959,
+   "e": 34.028
+  },
+  {
+   "cap": "request",
+   "voice": "request",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 34.075,
+   "e": 34.412
+  },
+  {
+   "cap": "to",
+   "voice": "to",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 34.447,
+   "e": 34.493
+  },
+  {
+   "cap": "its",
+   "voice": "its",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 34.563,
+   "e": 34.667
+  },
+  {
+   "cap": "partner",
+   "voice": "partner",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 34.714,
+   "e": 34.992
+  },
+  {
+   "cap": "bank.",
+   "voice": "bank.",
+   "sent": 5,
+   "chapter": "solution",
+   "s": 35.051,
+   "e": 35.457
+  },
+  {
+   "cap": "Second,",
+   "voice": "Second,",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 36.571,
+   "e": 37.082
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 37.465,
+   "e": 37.605
+  },
+  {
+   "cap": "NPCI",
+   "voice": "NPCI",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 37.686,
+   "e": 38.406
+  },
+  {
+   "cap": "UPI",
+   "voice": "UPI",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 38.522,
+   "e": 38.963
+  },
+  {
+   "cap": "switch.",
+   "voice": "switch.",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 39.056,
+   "e": 39.532
+  },
+  {
+   "cap": "Think",
+   "voice": "Think",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 40.229,
+   "e": 40.438
+  },
+  {
+   "cap": "of",
+   "voice": "of",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 40.484,
+   "e": 40.53
+  },
+  {
+   "cap": "it",
+   "voice": "it",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 40.577,
+   "e": 40.635
+  },
+  {
+   "cap": "as",
+   "voice": "as",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 40.67,
+   "e": 40.751
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 40.786,
+   "e": 40.856
+  },
+  {
+   "cap": "central",
+   "voice": "central",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 40.914,
+   "e": 41.25
+  },
+  {
+   "cap": "router",
+   "voice": "router",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 41.308,
+   "e": 41.552
+  },
+  {
+   "cap": "for",
+   "voice": "for",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 41.599,
+   "e": 41.703
+  },
+  {
+   "cap": "all",
+   "voice": "all",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 41.773,
+   "e": 41.958
+  },
+  {
+   "cap": "of",
+   "voice": "of",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 41.993,
+   "e": 42.04
+  },
+  {
+   "cap": "India.",
+   "voice": "India.",
+   "sent": 6,
+   "chapter": "solution",
+   "s": 42.121,
+   "e": 42.597
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 42.98,
+   "e": 43.085
+  },
+  {
+   "cap": "switch",
+   "voice": "switch",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 43.131,
+   "e": 43.387
+  },
+  {
+   "cap": "reads",
+   "voice": "reads",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 43.445,
+   "e": 43.654
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 43.688,
+   "e": 43.758
+  },
+  {
+   "cap": "tea",
+   "voice": "tea",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 43.804,
+   "e": 43.967
+  },
+  {
+   "cap": "seller's",
+   "voice": "seller's",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 44.013,
+   "e": 44.35
+  },
+  {
+   "cap": "UPI",
+   "voice": "UPI",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 44.431,
+   "e": 44.873
+  },
+  {
+   "cap": "ID,",
+   "voice": "ID,",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 44.954,
+   "e": 45.511
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 45.755,
+   "e": 45.894
+  },
+  {
+   "cap": "finds",
+   "voice": "finds",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 45.964,
+   "e": 46.243
+  },
+  {
+   "cap": "out",
+   "voice": "out",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 46.277,
+   "e": 46.405
+  },
+  {
+   "cap": "which",
+   "voice": "which",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 46.463,
+   "e": 46.661
+  },
+  {
+   "cap": "bank",
+   "voice": "bank",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 46.719,
+   "e": 46.928
+  },
+  {
+   "cap": "holds",
+   "voice": "holds",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 46.997,
+   "e": 47.253
+  },
+  {
+   "cap": "his",
+   "voice": "his",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 47.311,
+   "e": 47.415
+  },
+  {
+   "cap": "account.",
+   "voice": "account.",
+   "sent": 7,
+   "chapter": "solution",
+   "s": 47.438,
+   "e": 47.972
+  },
+  {
+   "cap": "Third,",
+   "voice": "Third,",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 48.576,
+   "e": 49.041
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 49.25,
+   "e": 49.47
+  },
+  {
+   "cap": "bank.",
+   "voice": "bank.",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 49.528,
+   "e": 49.946
+  },
+  {
+   "cap": "It",
+   "voice": "It",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 50.329,
+   "e": 50.457
+  },
+  {
+   "cap": "checks",
+   "voice": "checks",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 50.503,
+   "e": 50.759
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 50.782,
+   "e": 50.898
+  },
+  {
+   "cap": "PIN,",
+   "voice": "PIN,",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 50.945,
+   "e": 51.409
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 51.583,
+   "e": 51.734
+  },
+  {
+   "cap": "debits",
+   "voice": "debits",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 51.804,
+   "e": 52.106
+  },
+  {
+   "cap": "50",
+   "voice": "50",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 52.164,
+   "e": 52.442
+  },
+  {
+   "cap": "rupees",
+   "voice": "rupees",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 52.512,
+   "e": 52.849
+  },
+  {
+   "cap": "from",
+   "voice": "from",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 52.883,
+   "e": 53.0
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 53.046,
+   "e": 53.15
+  },
+  {
+   "cap": "account.",
+   "voice": "account.",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 53.185,
+   "e": 53.661
+  },
+  {
+   "cap": "Then",
+   "voice": "Then",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 54.358,
+   "e": 54.555
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 54.59,
+   "e": 54.66
+  },
+  {
+   "cap": "switch",
+   "voice": "switch",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 54.706,
+   "e": 55.008
+  },
+  {
+   "cap": "tells",
+   "voice": "tells",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 55.055,
+   "e": 55.298
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 55.345,
+   "e": 55.414
+  },
+  {
+   "cap": "tea",
+   "voice": "tea",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 55.461,
+   "e": 55.635
+  },
+  {
+   "cap": "seller's",
+   "voice": "seller's",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 55.681,
+   "e": 56.007
+  },
+  {
+   "cap": "bank:",
+   "voice": "bank:",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 56.053,
+   "e": 56.459
+  },
+  {
+   "cap": "credit",
+   "voice": "credit",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 56.901,
+   "e": 57.214
+  },
+  {
+   "cap": "50",
+   "voice": "50",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 57.272,
+   "e": 57.504
+  },
+  {
+   "cap": "rupees.",
+   "voice": "rupees.",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 57.562,
+   "e": 58.085
+  },
+  {
+   "cap": "A",
+   "voice": "A",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 58.781,
+   "e": 58.863
+  },
+  {
+   "cap": "success",
+   "voice": "success",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 58.955,
+   "e": 59.397
+  },
+  {
+   "cap": "message",
+   "voice": "message",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 59.455,
+   "e": 59.791
+  },
+  {
+   "cap": "travels",
+   "voice": "travels",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 59.826,
+   "e": 60.198
+  },
+  {
+   "cap": "back",
+   "voice": "back",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 60.256,
+   "e": 60.453
+  },
+  {
+   "cap": "both",
+   "voice": "both",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 60.534,
+   "e": 60.79
+  },
+  {
+   "cap": "ways.",
+   "voice": "ways.",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 60.86,
+   "e": 61.37
+  },
+  {
+   "cap": "A",
+   "voice": "A",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 62.067,
+   "e": 62.16
+  },
+  {
+   "cap": "ding",
+   "voice": "ding",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 62.276,
+   "e": 62.485
+  },
+  {
+   "cap": "for",
+   "voice": "for",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 62.543,
+   "e": 62.659
+  },
+  {
+   "cap": "you,",
+   "voice": "you,",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 62.717,
+   "e": 63.112
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 63.286,
+   "e": 63.367
+  },
+  {
+   "cap": "ding",
+   "voice": "ding",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 63.46,
+   "e": 63.658
+  },
+  {
+   "cap": "for",
+   "voice": "for",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 63.716,
+   "e": 63.82
+  },
+  {
+   "cap": "him.",
+   "voice": "him.",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 63.878,
+   "e": 64.215
+  },
+  {
+   "cap": "And",
+   "voice": "And",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 65.027,
+   "e": 65.178
+  },
+  {
+   "cap": "what",
+   "voice": "what",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 65.248,
+   "e": 65.411
+  },
+  {
+   "cap": "if",
+   "voice": "if",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 65.445,
+   "e": 65.527
+  },
+  {
+   "cap": "money",
+   "voice": "money",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 65.62,
+   "e": 65.829
+  },
+  {
+   "cap": "you",
+   "voice": "you",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 65.887,
+   "e": 65.968
+  },
+  {
+   "cap": "sent",
+   "voice": "sent",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 66.061,
+   "e": 66.247
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 66.293,
+   "e": 66.328
+  },
+  {
+   "cap": "friend",
+   "voice": "friend",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 66.397,
+   "e": 66.641
+  },
+  {
+   "cap": "gets",
+   "voice": "gets",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 66.711,
+   "e": 66.885
+  },
+  {
+   "cap": "debited",
+   "voice": "debited",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 66.955,
+   "e": 67.361
+  },
+  {
+   "cap": "but",
+   "voice": "but",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 67.454,
+   "e": 67.628
+  },
+  {
+   "cap": "never",
+   "voice": "never",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 67.686,
+   "e": 67.895
+  },
+  {
+   "cap": "arrives?",
+   "voice": "arrives?",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 67.953,
+   "e": 68.568
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 69.265,
+   "e": 69.404
+  },
+  {
+   "cap": "RBI",
+   "voice": "RBI",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 69.474,
+   "e": 69.88
+  },
+  {
+   "cap": "rule",
+   "voice": "rule",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 69.962,
+   "e": 70.194
+  },
+  {
+   "cap": "says:",
+   "voice": "says:",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 70.229,
+   "e": 70.705
+  },
+  {
+   "cap": "auto",
+   "voice": "auto",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 71.088,
+   "e": 71.378
+  },
+  {
+   "cap": "refund",
+   "voice": "refund",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 71.471,
+   "e": 71.843
+  },
+  {
+   "cap": "by",
+   "voice": "by",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 71.901,
+   "e": 71.993
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 72.051,
+   "e": 72.121
+  },
+  {
+   "cap": "next",
+   "voice": "next",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 72.168,
+   "e": 72.4
+  },
+  {
+   "cap": "day,",
+   "voice": "day,",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 72.458,
+   "e": 72.864
+  },
+  {
+   "cap": "or",
+   "voice": "or",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 73.108,
+   "e": 73.271
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 73.329,
+   "e": 73.398
+  },
+  {
+   "cap": "bank",
+   "voice": "bank",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 73.456,
+   "e": 73.665
+  },
+  {
+   "cap": "pays",
+   "voice": "pays",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 73.723,
+   "e": 73.956
+  },
+  {
+   "cap": "you",
+   "voice": "you",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 74.014,
+   "e": 74.106
+  },
+  {
+   "cap": "100",
+   "voice": "100",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 74.199,
+   "e": 74.641
+  },
+  {
+   "cap": "rupees",
+   "voice": "rupees",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 74.699,
+   "e": 75.024
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 75.07,
+   "e": 75.093
+  },
+  {
+   "cap": "day.",
+   "voice": "day.",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 75.14,
+   "e": 75.488
+  },
+  {
+   "cap": "Now",
+   "voice": "Now",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 76.185,
+   "e": 76.37
+  },
+  {
+   "cap": "your",
+   "voice": "your",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 76.452,
+   "e": 76.603
+  },
+  {
+   "cap": "turn:",
+   "voice": "turn:",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 76.649,
+   "e": 77.021
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 77.531,
+   "e": 77.671
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 77.706,
+   "e": 77.729
+  },
+  {
+   "cap": "UPI",
+   "voice": "UPI",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 77.822,
+   "e": 78.332
+  },
+  {
+   "cap": "ID,",
+   "voice": "ID,",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 78.449,
+   "e": 79.076
+  },
+  {
+   "cap": "what",
+   "voice": "what",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 79.354,
+   "e": 79.575
+  },
+  {
+   "cap": "does",
+   "voice": "does",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 79.633,
+   "e": 79.807
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 79.842,
+   "e": 79.911
+  },
+  {
+   "cap": "part",
+   "voice": "part",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 79.958,
+   "e": 80.19
+  },
+  {
+   "cap": "after",
+   "voice": "after",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 80.248,
+   "e": 80.48
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 80.55,
+   "e": 80.643
+  },
+  {
+   "cap": "at",
+   "voice": "at",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 80.759,
+   "e": 80.98
+  },
+  {
+   "cap": "sign,",
+   "voice": "sign,",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 81.061,
+   "e": 81.502
+  },
+  {
+   "cap": "like",
+   "voice": "like",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 81.676,
+   "e": 81.862
+  },
+  {
+   "cap": "ybl",
+   "voice": "ybl",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 81.92,
+   "e": 82.477
+  },
+  {
+   "cap": "or",
+   "voice": "or",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 82.593,
+   "e": 82.756
+  },
+  {
+   "cap": "oksbi,",
+   "voice": "oksbi,",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 82.849,
+   "e": 83.499
+  },
+  {
+   "cap": "tell",
+   "voice": "tell",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 83.65,
+   "e": 83.87
+  },
+  {
+   "cap": "you?",
+   "voice": "you?",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 83.94,
+   "e": 84.184
+  },
+  {
+   "cap": "Tell",
+   "voice": "Tell",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 84.88,
+   "e": 85.113
+  },
+  {
+   "cap": "me",
+   "voice": "me",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 85.171,
+   "e": 85.229
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 85.275,
+   "e": 85.322
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 85.357,
+   "e": 85.426
+  },
+  {
+   "cap": "comments.",
+   "voice": "comments.",
+   "sent": 12,
+   "chapter": "cta",
+   "s": 85.461,
+   "e": 86.239
+  }
+ ],
+ "duration": 87.239,
+ "audio": "upireel-en/voiceover.mp3",
+ "brand": "AI EXPLAINED",
+ "series": "SYSTEM DESIGN · 03",
+ "lang": "en",
+ "map": [
+  0,
+  0,
+  1,
+  4,
+  7,
+  8,
+  8,
+  8,
+  9,
+  10,
+  10,
+  10,
+  11,
+  11,
+  12,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  24,
+  25,
+  25,
+  26,
+  27,
+  27,
+  27,
+  28,
+  29,
+  31,
+  32,
+  34,
+  35,
+  35,
+  36,
+  38,
+  39,
+  40,
+  40,
+  41,
+  42,
+  44,
+  45,
+  45,
+  46,
+  46,
+  46,
+  47,
+  48,
+  48,
+  49,
+  50,
+  54,
+  53,
+  54,
+  56,
+  57,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  69,
+  71,
+  73,
+  74,
+  75,
+  76,
+  77,
+  79,
+  80,
+  81,
+  81,
+  81,
+  81,
+  82,
+  84,
+  84,
+  85,
+  86,
+  87,
+  88,
+  90,
+  91,
+  92,
+  93,
+  96,
+  99,
+  102,
+  103,
+  104,
+  104,
+  105,
+  106,
+  107,
+  108,
+  109,
+  109,
+  110,
+  111,
+  112,
+  109,
+  113,
+  113,
+  113,
+  113,
+  114,
+  115,
+  116,
+  118,
+  120,
+  121,
+  123,
+  124,
+  126,
+  127,
+  127,
+  123,
+  127,
+  127,
+  127,
+  128,
+  130,
+  133,
+  134,
+  134,
+  135,
+  136,
+  136,
+  136,
+  137,
+  138,
+  138,
+  138,
+  140,
+  141,
+  141,
+  144,
+  145,
+  146,
+  145,
+  148,
+  149,
+  147,
+  152,
+  151,
+  154,
+  158,
+  161,
+  162,
+  162,
+  162,
+  163,
+  164,
+  166,
+  166,
+  167,
+  168,
+  168,
+  169,
+  172,
+  171,
+  176,
+  176,
+  176,
+  177,
+  177,
+  179,
+  181,
+  185,
+  185,
+  185,
+  185,
+  186,
+  188,
+  190,
+  191,
+  192,
+  196,
+  199,
+  200,
+  200,
+  200,
+  201,
+  202,
+  202,
+  203,
+  204,
+  206,
+  208,
+  209,
+  207,
+  211,
+  211
+ ]
+}

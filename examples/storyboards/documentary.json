@@ -1,0 +1,218 @@
+{
+ "title": "Eighteen days at Kurukshetra",
+ "topic": "The Kurukshetra war in the Mahabharat",
+ "characters": [
+  {
+   "id": "dhritarashtra",
+   "name": {
+    "en": "Dhritarashtra",
+    "hi": "धृतराष्ट्र"
+   },
+   "description": "old blind king, white beard, crown, royal"
+  },
+  {
+   "id": "sanjaya",
+   "name": {
+    "en": "Sanjaya",
+    "hi": "संजय"
+   },
+   "description": "royal advisor and charioteer, turban, holds a scroll, slim"
+  },
+  {
+   "id": "bhishma",
+   "name": {
+    "en": "Bhishma",
+    "hi": "भीष्म"
+   },
+   "description": "old grandsire warrior, white beard, tall, armor, crown"
+  },
+  {
+   "id": "ashwatthama",
+   "name": {
+    "en": "Ashwatthama",
+    "hi": "अश्वत्थामा"
+   },
+   "description": "fierce young warrior, villain, helmet, carries a sword"
+  },
+  {
+   "id": "kripa",
+   "name": {
+    "en": "Kripa",
+    "hi": "कृपाचार्य"
+   },
+   "description": "old teacher, sage, white beard, staff, hair bun"
+  },
+  {
+   "id": "kritavarma",
+   "name": {
+    "en": "Kritavarma",
+    "hi": "कृतवर्मा"
+   },
+   "description": "warrior general, turban, carries a sword, armor"
+  }
+ ],
+ "slug": "sample-documentary",
+ "scenes": [
+  {
+   "id": "hook",
+   "role": "hook",
+   "visual": "footage",
+   "visual_reason": "open on period art of the war itself",
+   "narration": {
+    "en": "Eighteen days.",
+    "hi": "अठारह दिन।"
+   },
+   "headline": {
+    "en": "Eighteen *days*",
+    "hi": "अठारह *दिन*"
+   },
+   "emoji": "⚔️",
+   "icon": "swords",
+   "footage": {
+    "queries": [
+     "Mahabharata battle painting",
+     "Kurukshetra war",
+     "Mahabharata manuscript"
+    ],
+    "subject": "an old Indian painting of an ancient battle with chariots, elephants and archers",
+    "keywords": [
+     "Mahabharata",
+     "Kurukshetra",
+     "battle"
+    ],
+    "prefer": "image"
+   }
+  },
+  {
+   "id": "where",
+   "role": "problem",
+   "visual": "map",
+   "visual_reason": "the line places the war geographically",
+   "narration": {
+    "en": "The field was Kurukshetra, north of present-day Delhi.",
+    "hi": "यह मैदान था कुरुक्षेत्र, आज की दिल्ली के उत्तर में।"
+   },
+   "headline": {
+    "en": "The field of *Kurukshetra*",
+    "hi": "*कुरुक्षेत्र* का मैदान"
+   },
+   "emoji": "🗺️",
+   "icon": "map",
+   "places": [
+    {
+     "name": {
+      "en": "Kurukshetra",
+      "hi": "कुरुक्षेत्र"
+     },
+     "lat": 29.97,
+     "lon": 76.88
+    },
+    {
+     "name": {
+      "en": "Hastinapura",
+      "hi": "हस्तिनापुर"
+     },
+     "lat": 29.16,
+     "lon": 78.01
+    },
+    {
+     "name": {
+      "en": "Indraprastha",
+      "hi": "इंद्रप्रस्थ"
+     },
+     "lat": 28.61,
+     "lon": 77.24
+    }
+   ]
+  },
+  {
+   "id": "days",
+   "role": "payoff",
+   "visual": "timeline",
+   "visual_reason": "the line is a sequence of days",
+   "narration": {
+    "en": "The fighting ran for eighteen days.",
+    "hi": "युद्ध अठारह दिन चला।"
+   },
+   "headline": {
+    "en": "Eighteen days, in *order*",
+    "hi": "अठारह दिन, *क्रम से*"
+   },
+   "emoji": "📜",
+   "icon": "calendar-days",
+   "steps": [
+    {
+     "date": {
+      "en": "Day 1",
+      "hi": "दिन 1"
+     },
+     "label": {
+      "en": "The armies meet",
+      "hi": "सेनाएँ आमने-सामने"
+     }
+    },
+    {
+     "date": {
+      "en": "Day 10",
+      "hi": "दिन 10"
+     },
+     "label": {
+      "en": "Bhishma falls",
+      "hi": "भीष्म गिरे"
+     }
+    },
+    {
+     "date": {
+      "en": "Day 18",
+      "hi": "दिन 18"
+     },
+     "label": {
+      "en": "The last stand",
+      "hi": "आख़िरी मुक़ाबला"
+     }
+    }
+   ]
+  },
+  {
+   "id": "arrows",
+   "role": "payoff",
+   "visual": "reenact",
+   "visual_reason": "the image the line describes, a warrior held up by arrows, has to be staged",
+   "narration": {
+    "en": "That commander was Bhishma.",
+    "hi": "वो सेनापति थे भीष्म।"
+   },
+   "headline": {
+    "en": "A bed of *arrows*",
+    "hi": "तीरों की *शैया*"
+   },
+   "emoji": "🏹",
+   "icon": "bow-arrow",
+   "stage": {
+    "background": "battlefield",
+    "camera": "push-in",
+    "set": [
+     {
+      "kind": "arrow-bed",
+      "x": 0.5
+     }
+    ],
+    "speaker": "narrator",
+    "cast": [
+     {
+      "id": "bhishma",
+      "x": 0.5,
+      "pose": "standing",
+      "lie": true,
+      "actions": [
+       {
+        "at": 0.6,
+        "pose": "blessing"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

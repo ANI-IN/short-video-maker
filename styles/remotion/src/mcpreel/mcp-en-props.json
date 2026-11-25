@@ -1,0 +1,1993 @@
+{
+ "words": [
+  {
+   "cap": "Interview",
+   "voice": "Interview",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 0.0,
+   "e": 0.441
+  },
+  {
+   "cap": "question:",
+   "voice": "question:",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 0.499,
+   "e": 1.068
+  },
+  {
+   "cap": "what",
+   "voice": "what",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 1.277,
+   "e": 1.486
+  },
+  {
+   "cap": "is",
+   "voice": "is",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 1.533,
+   "e": 1.625
+  },
+  {
+   "cap": "MCP?",
+   "voice": "MCP?",
+   "sent": 0,
+   "chapter": "hook",
+   "s": 1.718,
+   "e": 2.531
+  },
+  {
+   "cap": "You",
+   "voice": "You",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 3.135,
+   "e": 3.274
+  },
+  {
+   "cap": "answered",
+   "voice": "answered",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 3.39,
+   "e": 3.773
+  },
+  {
+   "cap": "instantly,",
+   "voice": "instantly,",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 3.866,
+   "e": 4.574
+  },
+  {
+   "cap": "Model",
+   "voice": "Model",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 4.818,
+   "e": 5.12
+  },
+  {
+   "cap": "Context",
+   "voice": "Context",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 5.178,
+   "e": 5.677
+  },
+  {
+   "cap": "Protocol.",
+   "voice": "Protocol.",
+   "sent": 1,
+   "chapter": "hook",
+   "s": 5.724,
+   "e": 6.362
+  },
+  {
+   "cap": "They",
+   "voice": "They",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 6.606,
+   "e": 6.815
+  },
+  {
+   "cap": "knew",
+   "voice": "knew",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 6.861,
+   "e": 7.001
+  },
+  {
+   "cap": "right",
+   "voice": "right",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 7.059,
+   "e": 7.245
+  },
+  {
+   "cap": "away:",
+   "voice": "away:",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 7.268,
+   "e": 7.697
+  },
+  {
+   "cap": "memorised,",
+   "voice": "memorised,",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 7.872,
+   "e": 8.591
+  },
+  {
+   "cap": "not",
+   "voice": "not",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 8.8,
+   "e": 8.986
+  },
+  {
+   "cap": "understood.",
+   "voice": "understood.",
+   "sent": 2,
+   "chapter": "hook",
+   "s": 9.033,
+   "e": 9.694
+  },
+  {
+   "cap": "You",
+   "voice": "You",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.136,
+   "e": 10.252
+  },
+  {
+   "cap": "have",
+   "voice": "have",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.333,
+   "e": 10.472
+  },
+  {
+   "cap": "to",
+   "voice": "to",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.495,
+   "e": 10.553
+  },
+  {
+   "cap": "build",
+   "voice": "build",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.6,
+   "e": 10.797
+  },
+  {
+   "cap": "an",
+   "voice": "an",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.832,
+   "e": 10.89
+  },
+  {
+   "cap": "AI",
+   "voice": "AI",
+   "sent": 3,
+   "chapter": "task",
+   "s": 10.971,
+   "e": 11.25
+  },
+  {
+   "cap": "assistant.",
+   "voice": "assistant.",
+   "sent": 3,
+   "chapter": "task",
+   "s": 11.32,
+   "e": 11.97
+  },
+  {
+   "cap": "One",
+   "voice": "One",
+   "sent": 4,
+   "chapter": "task",
+   "s": 12.295,
+   "e": 12.504
+  },
+  {
+   "cap": "that",
+   "voice": "that",
+   "sent": 4,
+   "chapter": "task",
+   "s": 12.527,
+   "e": 12.643
+  },
+  {
+   "cap": "pulls",
+   "voice": "pulls",
+   "sent": 4,
+   "chapter": "task",
+   "s": 12.69,
+   "e": 12.945
+  },
+  {
+   "cap": "mails",
+   "voice": "mails",
+   "sent": 4,
+   "chapter": "task",
+   "s": 13.015,
+   "e": 13.247
+  },
+  {
+   "cap": "from",
+   "voice": "from",
+   "sent": 4,
+   "chapter": "task",
+   "s": 13.293,
+   "e": 13.421
+  },
+  {
+   "cap": "Gmail,",
+   "voice": "Gmail,",
+   "sent": 4,
+   "chapter": "task",
+   "s": 13.514,
+   "e": 14.106
+  },
+  {
+   "cap": "PRs",
+   "voice": "PRs",
+   "sent": 4,
+   "chapter": "task",
+   "s": 14.176,
+   "e": 14.675
+  },
+  {
+   "cap": "from",
+   "voice": "from",
+   "sent": 4,
+   "chapter": "task",
+   "s": 14.733,
+   "e": 14.861
+  },
+  {
+   "cap": "GitHub,",
+   "voice": "GitHub,",
+   "sent": 4,
+   "chapter": "task",
+   "s": 14.942,
+   "e": 15.523
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 4,
+   "chapter": "task",
+   "s": 15.732,
+   "e": 15.894
+  },
+  {
+   "cap": "meetings",
+   "voice": "meetings",
+   "sent": 4,
+   "chapter": "task",
+   "s": 15.975,
+   "e": 16.3
+  },
+  {
+   "cap": "from",
+   "voice": "from",
+   "sent": 4,
+   "chapter": "task",
+   "s": 16.335,
+   "e": 16.463
+  },
+  {
+   "cap": "Calendar.",
+   "voice": "Calendar.",
+   "sent": 4,
+   "chapter": "task",
+   "s": 16.532,
+   "e": 17.159
+  },
+  {
+   "cap": "Here's",
+   "voice": "Here's",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 17.333,
+   "e": 17.589
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 17.612,
+   "e": 17.682
+  },
+  {
+   "cap": "problem.",
+   "voice": "problem.",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 17.705,
+   "e": 18.204
+  },
+  {
+   "cap": "Three",
+   "voice": "Three",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 18.448,
+   "e": 18.738
+  },
+  {
+   "cap": "apps,",
+   "voice": "apps,",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 18.796,
+   "e": 19.284
+  },
+  {
+   "cap": "three",
+   "voice": "three",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 19.493,
+   "e": 19.737
+  },
+  {
+   "cap": "different",
+   "voice": "different",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 19.783,
+   "e": 20.027
+  },
+  {
+   "cap": "APIs,",
+   "voice": "APIs,",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 20.062,
+   "e": 20.758
+  },
+  {
+   "cap": "three",
+   "voice": "three",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 20.932,
+   "e": 21.188
+  },
+  {
+   "cap": "separate",
+   "voice": "separate",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 21.234,
+   "e": 21.559
+  },
+  {
+   "cap": "codebases.",
+   "voice": "codebases.",
+   "sent": 5,
+   "chapter": "problem",
+   "s": 21.583,
+   "e": 22.314
+  },
+  {
+   "cap": "Want",
+   "voice": "Want",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 22.825,
+   "e": 22.999
+  },
+  {
+   "cap": "to",
+   "voice": "to",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 23.022,
+   "e": 23.069
+  },
+  {
+   "cap": "add",
+   "voice": "add",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 23.127,
+   "e": 23.312
+  },
+  {
+   "cap": "Slack",
+   "voice": "Slack",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 23.37,
+   "e": 23.684
+  },
+  {
+   "cap": "tomorrow?",
+   "voice": "tomorrow?",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 23.742,
+   "e": 24.334
+  },
+  {
+   "cap": "More",
+   "voice": "More",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 25.031,
+   "e": 25.263
+  },
+  {
+   "cap": "new",
+   "voice": "new",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 25.298,
+   "e": 25.414
+  },
+  {
+   "cap": "code.",
+   "voice": "code.",
+   "sent": 6,
+   "chapter": "problem",
+   "s": 25.483,
+   "e": 25.913
+  },
+  {
+   "cap": "M",
+   "voice": "M",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 26.61,
+   "e": 26.784
+  },
+  {
+   "cap": "apps",
+   "voice": "apps",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 26.853,
+   "e": 27.074
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 27.132,
+   "e": 27.237
+  },
+  {
+   "cap": "N",
+   "voice": "N",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 27.329,
+   "e": 27.504
+  },
+  {
+   "cap": "tools",
+   "voice": "tools",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 27.562,
+   "e": 27.91
+  },
+  {
+   "cap": "means",
+   "voice": "means",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 27.968,
+   "e": 28.2
+  },
+  {
+   "cap": "M",
+   "voice": "M",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 28.316,
+   "e": 28.49
+  },
+  {
+   "cap": "times",
+   "voice": "times",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 28.56,
+   "e": 28.885
+  },
+  {
+   "cap": "N",
+   "voice": "N",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 28.966,
+   "e": 29.141
+  },
+  {
+   "cap": "connections.",
+   "voice": "connections.",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 29.21,
+   "e": 29.953
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 30.65,
+   "e": 30.894
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 30.929,
+   "e": 30.998
+  },
+  {
+   "cap": "M",
+   "voice": "M",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 31.056,
+   "e": 31.172
+  },
+  {
+   "cap": "times",
+   "voice": "times",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 31.23,
+   "e": 31.497
+  },
+  {
+   "cap": "N",
+   "voice": "N",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 31.567,
+   "e": 31.718
+  },
+  {
+   "cap": "problem.",
+   "voice": "problem.",
+   "sent": 7,
+   "chapter": "problem",
+   "s": 31.788,
+   "e": 32.31
+  },
+  {
+   "cap": "MCP",
+   "voice": "MCP",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 33.007,
+   "e": 33.471
+  },
+  {
+   "cap": "solves",
+   "voice": "solves",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 33.622,
+   "e": 33.924
+  },
+  {
+   "cap": "this",
+   "voice": "this",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 33.959,
+   "e": 34.11
+  },
+  {
+   "cap": "with",
+   "voice": "with",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 34.168,
+   "e": 34.295
+  },
+  {
+   "cap": "one",
+   "voice": "one",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 34.365,
+   "e": 34.609
+  },
+  {
+   "cap": "common",
+   "voice": "common",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 34.667,
+   "e": 34.969
+  },
+  {
+   "cap": "standard.",
+   "voice": "standard.",
+   "sent": 8,
+   "chapter": "solution",
+   "s": 35.015,
+   "e": 35.584
+  },
+  {
+   "cap": "First,",
+   "voice": "First,",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 36.281,
+   "e": 36.733
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 36.803,
+   "e": 36.919
+  },
+  {
+   "cap": "Model.",
+   "voice": "Model.",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 37.012,
+   "e": 37.558
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 38.243,
+   "e": 38.405
+  },
+  {
+   "cap": "AI",
+   "voice": "AI",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 38.498,
+   "e": 38.8
+  },
+  {
+   "cap": "that",
+   "voice": "that",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 38.87,
+   "e": 38.997
+  },
+  {
+   "cap": "thinks,",
+   "voice": "thinks,",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 39.055,
+   "e": 39.415
+  },
+  {
+   "cap": "like",
+   "voice": "like",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 39.473,
+   "e": 39.671
+  },
+  {
+   "cap": "ChatGPT,",
+   "voice": "ChatGPT,",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 39.787,
+   "e": 40.727
+  },
+  {
+   "cap": "Claude",
+   "voice": "Claude",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 40.774,
+   "e": 41.122
+  },
+  {
+   "cap": "or",
+   "voice": "or",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 41.145,
+   "e": 41.273
+  },
+  {
+   "cap": "Gemini.",
+   "voice": "Gemini.",
+   "sent": 9,
+   "chapter": "solution",
+   "s": 41.354,
+   "e": 41.981
+  },
+  {
+   "cap": "Second,",
+   "voice": "Second,",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 42.573,
+   "e": 43.096
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 43.27,
+   "e": 43.432
+  },
+  {
+   "cap": "MCP",
+   "voice": "MCP",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 43.525,
+   "e": 43.99
+  },
+  {
+   "cap": "Client.",
+   "voice": "Client.",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 44.106,
+   "e": 44.64
+  },
+  {
+   "cap": "It",
+   "voice": "It",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 45.325,
+   "e": 45.464
+  },
+  {
+   "cap": "lives",
+   "voice": "lives",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 45.534,
+   "e": 45.789
+  },
+  {
+   "cap": "inside",
+   "voice": "inside",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 45.87,
+   "e": 46.3
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 46.323,
+   "e": 46.393
+  },
+  {
+   "cap": "app",
+   "voice": "app",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 46.463,
+   "e": 46.614
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 46.648,
+   "e": 46.706
+  },
+  {
+   "cap": "talks",
+   "voice": "talks",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 46.753,
+   "e": 46.997
+  },
+  {
+   "cap": "for",
+   "voice": "for",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 47.031,
+   "e": 47.113
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 47.148,
+   "e": 47.217
+  },
+  {
+   "cap": "Model.",
+   "voice": "Model.",
+   "sent": 10,
+   "chapter": "solution",
+   "s": 47.252,
+   "e": 47.705
+  },
+  {
+   "cap": "Third,",
+   "voice": "Third,",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 48.39,
+   "e": 48.877
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 49.075,
+   "e": 49.226
+  },
+  {
+   "cap": "MCP",
+   "voice": "MCP",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 49.319,
+   "e": 49.783
+  },
+  {
+   "cap": "Server.",
+   "voice": "Server.",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 49.934,
+   "e": 50.456
+  },
+  {
+   "cap": "A",
+   "voice": "A",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 51.153,
+   "e": 51.223
+  },
+  {
+   "cap": "small",
+   "voice": "small",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 51.304,
+   "e": 51.559
+  },
+  {
+   "cap": "program",
+   "voice": "program",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 51.617,
+   "e": 51.977
+  },
+  {
+   "cap": "per",
+   "voice": "per",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 52.035,
+   "e": 52.14
+  },
+  {
+   "cap": "tool,",
+   "voice": "tool,",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 52.198,
+   "e": 52.604
+  },
+  {
+   "cap": "like",
+   "voice": "like",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 52.686,
+   "e": 52.837
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 52.86,
+   "e": 52.883
+  },
+  {
+   "cap": "Gmail",
+   "voice": "Gmail",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 52.953,
+   "e": 53.301
+  },
+  {
+   "cap": "server.",
+   "voice": "server.",
+   "sent": 11,
+   "chapter": "solution",
+   "s": 53.359,
+   "e": 53.847
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 54.532,
+   "e": 54.636
+  },
+  {
+   "cap": "Client",
+   "voice": "Client",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 54.694,
+   "e": 55.02
+  },
+  {
+   "cap": "first",
+   "voice": "first",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 55.078,
+   "e": 55.31
+  },
+  {
+   "cap": "asks",
+   "voice": "asks",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 55.379,
+   "e": 55.658
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 55.693,
+   "e": 55.763
+  },
+  {
+   "cap": "Server:",
+   "voice": "Server:",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 55.809,
+   "e": 56.273
+  },
+  {
+   "cap": "what",
+   "voice": "what",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 56.448,
+   "e": 56.633
+  },
+  {
+   "cap": "can",
+   "voice": "can",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 56.668,
+   "e": 56.784
+  },
+  {
+   "cap": "you",
+   "voice": "you",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 56.842,
+   "e": 56.924
+  },
+  {
+   "cap": "do?",
+   "voice": "do?",
+   "sent": 12,
+   "chapter": "solution",
+   "s": 56.982,
+   "e": 57.33
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 57.841,
+   "e": 57.957
+  },
+  {
+   "cap": "Server",
+   "voice": "Server",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 58.015,
+   "e": 58.294
+  },
+  {
+   "cap": "replies",
+   "voice": "replies",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 58.34,
+   "e": 58.77
+  },
+  {
+   "cap": "with",
+   "voice": "with",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 58.816,
+   "e": 58.932
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 58.967,
+   "e": 58.99
+  },
+  {
+   "cap": "list",
+   "voice": "list",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 59.037,
+   "e": 59.199
+  },
+  {
+   "cap": "of",
+   "voice": "of",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 59.246,
+   "e": 59.292
+  },
+  {
+   "cap": "tools:",
+   "voice": "tools:",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 59.362,
+   "e": 59.965
+  },
+  {
+   "cap": "search",
+   "voice": "search",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 60.29,
+   "e": 60.581
+  },
+  {
+   "cap": "mails,",
+   "voice": "mails,",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 60.627,
+   "e": 61.01
+  },
+  {
+   "cap": "send",
+   "voice": "send",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 61.126,
+   "e": 61.347
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 61.393,
+   "e": 61.417
+  },
+  {
+   "cap": "mail.",
+   "voice": "mail.",
+   "sent": 13,
+   "chapter": "solution",
+   "s": 61.463,
+   "e": 61.904
+  },
+  {
+   "cap": "That",
+   "voice": "That",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 62.601,
+   "e": 62.833
+  },
+  {
+   "cap": "list",
+   "voice": "list",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 62.903,
+   "e": 63.077
+  },
+  {
+   "cap": "becomes",
+   "voice": "becomes",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 63.123,
+   "e": 63.425
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 63.46,
+   "e": 63.53
+  },
+  {
+   "cap": "Model's",
+   "voice": "Model's",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 63.576,
+   "e": 63.89
+  },
+  {
+   "cap": "Context.",
+   "voice": "Context.",
+   "sent": 14,
+   "chapter": "solution",
+   "s": 63.936,
+   "e": 64.737
+  },
+  {
+   "cap": "The",
+   "voice": "The",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 65.434,
+   "e": 65.55
+  },
+  {
+   "cap": "Model",
+   "voice": "Model",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 65.596,
+   "e": 65.805
+  },
+  {
+   "cap": "picks",
+   "voice": "picks",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 65.852,
+   "e": 66.049
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.072,
+   "e": 66.142
+  },
+  {
+   "cap": "right",
+   "voice": "right",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.177,
+   "e": 66.351
+  },
+  {
+   "cap": "tool,",
+   "voice": "tool,",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.397,
+   "e": 66.769
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.804,
+   "e": 66.873
+  },
+  {
+   "cap": "Server",
+   "voice": "Server",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 66.92,
+   "e": 67.175
+  },
+  {
+   "cap": "does",
+   "voice": "does",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 67.233,
+   "e": 67.396
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 67.442,
+   "e": 67.511
+  },
+  {
+   "cap": "work,",
+   "voice": "work,",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 67.558,
+   "e": 67.918
+  },
+  {
+   "cap": "and",
+   "voice": "and",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 68.092,
+   "e": 68.231
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 68.278,
+   "e": 68.347
+  },
+  {
+   "cap": "answer",
+   "voice": "answer",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 68.405,
+   "e": 68.672
+  },
+  {
+   "cap": "comes",
+   "voice": "comes",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 68.719,
+   "e": 68.916
+  },
+  {
+   "cap": "back.",
+   "voice": "back.",
+   "sent": 15,
+   "chapter": "solution",
+   "s": 68.963,
+   "e": 69.392
+  },
+  {
+   "cap": "This",
+   "voice": "This",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 69.903,
+   "e": 70.112
+  },
+  {
+   "cap": "whole",
+   "voice": "whole",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 70.17,
+   "e": 70.379
+  },
+  {
+   "cap": "conversation",
+   "voice": "conversation",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 70.414,
+   "e": 70.96
+  },
+  {
+   "cap": "follows",
+   "voice": "follows",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 71.029,
+   "e": 71.32
+  },
+  {
+   "cap": "one",
+   "voice": "one",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 71.424,
+   "e": 71.668
+  },
+  {
+   "cap": "fixed",
+   "voice": "fixed",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 71.726,
+   "e": 71.97
+  },
+  {
+   "cap": "format.",
+   "voice": "format.",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 72.005,
+   "e": 72.539
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 73.131,
+   "e": 73.363
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 73.398,
+   "e": 73.467
+  },
+  {
+   "cap": "Protocol.",
+   "voice": "Protocol.",
+   "sent": 16,
+   "chapter": "solution",
+   "s": 73.491,
+   "e": 74.094
+  },
+  {
+   "cap": "A",
+   "voice": "A",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 74.779,
+   "e": 74.861
+  },
+  {
+   "cap": "new",
+   "voice": "new",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 74.942,
+   "e": 75.058
+  },
+  {
+   "cap": "tool?",
+   "voice": "tool?",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 75.104,
+   "e": 75.569
+  },
+  {
+   "cap": "Just",
+   "voice": "Just",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 76.242,
+   "e": 76.463
+  },
+  {
+   "cap": "build",
+   "voice": "build",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 76.521,
+   "e": 76.718
+  },
+  {
+   "cap": "its",
+   "voice": "its",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 76.753,
+   "e": 76.881
+  },
+  {
+   "cap": "MCP",
+   "voice": "MCP",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 76.939,
+   "e": 77.403
+  },
+  {
+   "cap": "server.",
+   "voice": "server.",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 77.554,
+   "e": 78.042
+  },
+  {
+   "cap": "Not",
+   "voice": "Not",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 78.727,
+   "e": 78.924
+  },
+  {
+   "cap": "M",
+   "voice": "M",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 78.97,
+   "e": 79.087
+  },
+  {
+   "cap": "times",
+   "voice": "times",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 79.156,
+   "e": 79.435
+  },
+  {
+   "cap": "N,",
+   "voice": "N,",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 79.47,
+   "e": 79.83
+  },
+  {
+   "cap": "only",
+   "voice": "only",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 80.027,
+   "e": 80.294
+  },
+  {
+   "cap": "M",
+   "voice": "M",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 80.364,
+   "e": 80.48
+  },
+  {
+   "cap": "plus",
+   "voice": "plus",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 80.538,
+   "e": 80.758
+  },
+  {
+   "cap": "N.",
+   "voice": "N.",
+   "sent": 17,
+   "chapter": "solution",
+   "s": 80.816,
+   "e": 81.188
+  },
+  {
+   "cap": "Remember:",
+   "voice": "Remember:",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 81.873,
+   "e": 82.465
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 82.895,
+   "e": 82.999
+  },
+  {
+   "cap": "Model",
+   "voice": "Model",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 83.069,
+   "e": 83.301
+  },
+  {
+   "cap": "decides,",
+   "voice": "decides,",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 83.359,
+   "e": 84.056
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 84.265,
+   "e": 84.358
+  },
+  {
+   "cap": "Client",
+   "voice": "Client",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 84.392,
+   "e": 84.717
+  },
+  {
+   "cap": "talks,",
+   "voice": "talks,",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 84.741,
+   "e": 85.228
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 85.495,
+   "e": 85.6
+  },
+  {
+   "cap": "Server",
+   "voice": "Server",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 85.669,
+   "e": 85.96
+  },
+  {
+   "cap": "works.",
+   "voice": "works.",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 86.006,
+   "e": 86.505
+  },
+  {
+   "cap": "That's",
+   "voice": "That's",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 87.179,
+   "e": 87.446
+  },
+  {
+   "cap": "MCP.",
+   "voice": "MCP.",
+   "sent": 18,
+   "chapter": "solution",
+   "s": 87.504,
+   "e": 88.166
+  },
+  {
+   "cap": "Your",
+   "voice": "Your",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 88.491,
+   "e": 88.688
+  },
+  {
+   "cap": "turn:",
+   "voice": "turn:",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 88.735,
+   "e": 89.129
+  },
+  {
+   "cap": "what",
+   "voice": "what",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 89.826,
+   "e": 90.012
+  },
+  {
+   "cap": "should",
+   "voice": "should",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 90.058,
+   "e": 90.232
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 90.255,
+   "e": 90.325
+  },
+  {
+   "cap": "first",
+   "voice": "first",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 90.395,
+   "e": 90.685
+  },
+  {
+   "cap": "tool",
+   "voice": "tool",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 90.731,
+   "e": 90.987
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 91.033,
+   "e": 91.091
+  },
+  {
+   "cap": "a",
+   "voice": "a",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 91.126,
+   "e": 91.149
+  },
+  {
+   "cap": "Slack",
+   "voice": "Slack",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 91.196,
+   "e": 91.544
+  },
+  {
+   "cap": "MCP",
+   "voice": "MCP",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 91.66,
+   "e": 92.159
+  },
+  {
+   "cap": "server",
+   "voice": "server",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 92.31,
+   "e": 92.624
+  },
+  {
+   "cap": "be?",
+   "voice": "be?",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 92.682,
+   "e": 92.984
+  },
+  {
+   "cap": "Tell",
+   "voice": "Tell",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 93.68,
+   "e": 93.866
+  },
+  {
+   "cap": "me",
+   "voice": "me",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 93.913,
+   "e": 93.971
+  },
+  {
+   "cap": "in",
+   "voice": "in",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 94.005,
+   "e": 94.052
+  },
+  {
+   "cap": "the",
+   "voice": "the",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 94.087,
+   "e": 94.156
+  },
+  {
+   "cap": "comments.",
+   "voice": "comments.",
+   "sent": 19,
+   "chapter": "cta",
+   "s": 94.191,
+   "e": 94.969
+  }
+ ],
+ "duration": 95.969,
+ "audio": "mcpreel-en/voiceover.mp3",
+ "brand": "AI EXPLAINED",
+ "series": "SYSTEM DESIGN · 01",
+ "lang": "en",
+ "map": [
+  0,
+  0,
+  1,
+  2,
+  4,
+  4,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  17,
+  18,
+  20,
+  23,
+  24,
+  24,
+  24,
+  25,
+  30,
+  31,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  37,
+  37,
+  40,
+  40,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  53,
+  52,
+  54,
+  54,
+  54,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  69,
+  70,
+  71,
+  72,
+  72,
+  73,
+  74,
+  75,
+  75,
+  76,
+  77,
+  78,
+  79,
+  79,
+  80,
+  82,
+  83,
+  84,
+  85,
+  86,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  94,
+  95,
+  98,
+  100,
+  102,
+  103,
+  105,
+  105,
+  105,
+  105,
+  102,
+  105,
+  105,
+  106,
+  108,
+  109,
+  112,
+  114,
+  114,
+  111,
+  116,
+  116,
+  116,
+  117,
+  118,
+  118,
+  120,
+  122,
+  124,
+  125,
+  125,
+  125,
+  127,
+  127,
+  128,
+  128,
+  128,
+  128,
+  130,
+  136,
+  136,
+  137,
+  137,
+  138,
+  138,
+  139,
+  140,
+  141,
+  141,
+  142,
+  143,
+  146,
+  146,
+  147,
+  147,
+  147,
+  149,
+  152,
+  153,
+  154,
+  154,
+  155,
+  156,
+  157,
+  159,
+  159,
+  161,
+  162,
+  162,
+  163,
+  164,
+  165,
+  167,
+  168,
+  169,
+  170,
+  171,
+  171,
+  172,
+  171,
+  173,
+  173,
+  175,
+  176,
+  177,
+  179,
+  180,
+  181,
+  182,
+  183,
+  184,
+  185,
+  185,
+  186,
+  187,
+  188,
+  189,
+  190,
+  191,
+  192,
+  193,
+  194,
+  195,
+  196,
+  197,
+  198,
+  199,
+  200,
+  200,
+  200,
+  201,
+  202,
+  206,
+  208,
+  211,
+  212,
+  212,
+  213,
+  214,
+  215,
+  214,
+  217,
+  218,
+  215,
+  219,
+  219
+ ]
+}

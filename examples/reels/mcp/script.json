@@ -1,0 +1,102 @@
+[
+ {
+  "chapter": "hook",
+  "cap": "Interview question: what is MCP?",
+  "voice": "Interview question: what is MCP?"
+ },
+ {
+  "chapter": "hook",
+  "cap": "You answered instantly, Model Context Protocol.",
+  "voice": "You answered instantly, Model Context Protocol."
+ },
+ {
+  "chapter": "hook",
+  "cap": "They knew right away: memorised, not understood.",
+  "voice": "They knew right away: memorised, not understood."
+ },
+ {
+  "chapter": "task",
+  "cap": "You have to build an AI assistant.",
+  "voice": "You have to build an AI assistant."
+ },
+ {
+  "chapter": "task",
+  "cap": "One that pulls mails from Gmail, PRs from GitHub, and meetings from Calendar.",
+  "voice": "One that pulls mails from Gmail, PRs from GitHub, and meetings from Calendar."
+ },
+ {
+  "chapter": "problem",
+  "cap": "Here's the problem. Three apps, three different APIs, three separate codebases.",
+  "voice": "Here's the problem. Three apps, three different APIs, three separate codebases."
+ },
+ {
+  "chapter": "problem",
+  "cap": "Want to add Slack tomorrow? More new code.",
+  "voice": "Want to add Slack tomorrow? More new code."
+ },
+ {
+  "chapter": "problem",
+  "cap": "M apps and N tools means M times N connections. That's the M times N problem.",
+  "voice": "M apps and N tools means M times N connections. That's the M times N problem."
+ },
+ {
+  "chapter": "solution",
+  "cap": "MCP solves this with one common standard.",
+  "voice": "MCP solves this with one common standard."
+ },
+ {
+  "chapter": "solution",
+  "cap": "First, the Model. The AI that thinks, like ChatGPT, Claude or Gemini.",
+  "voice": "First, the Model. The AI that thinks, like ChatGPT, Claude or Gemini."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Second, the MCP Client. It lives inside the app and talks for the Model.",
+  "voice": "Second, the MCP Client. It lives inside the app and talks for the Model."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Third, the MCP Server. A small program per tool, like a Gmail server.",
+  "voice": "Third, the MCP Server. A small program per tool, like a Gmail server."
+ },
+ {
+  "chapter": "solution",
+  "cap": "The Client first asks the Server: what can you do?",
+  "voice": "The Client first asks the Server: what can you do?"
+ },
+ {
+  "chapter": "solution",
+  "cap": "The Server replies with a list of tools: search mails, send a mail.",
+  "voice": "The Server replies with a list of tools: search mails, send a mail."
+ },
+ {
+  "chapter": "solution",
+  "cap": "That list becomes the Model's Context.",
+  "voice": "That list becomes the Model's Context."
+ },
+ {
+  "chapter": "solution",
+  "cap": "The Model picks the right tool, the Server does the work, and the answer comes back.",
+  "voice": "The Model picks the right tool, the Server does the work, and the answer comes back."
+ },
+ {
+  "chapter": "solution",
+  "cap": "This whole conversation follows one fixed format. That's the Protocol.",
+  "voice": "This whole conversation follows one fixed format. That's the Protocol."
+ },
+ {
+  "chapter": "solution",
+  "cap": "A new tool? Just build its MCP server. Not M times N, only M plus N.",
+  "voice": "A new tool? Just build its MCP server. Not M times N, only M plus N."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Remember: the Model decides, the Client talks, the Server works. That's MCP.",
+  "voice": "Remember: the Model decides, the Client talks, the Server works. That's MCP."
+ },
+ {
+  "chapter": "cta",
+  "cap": "Your turn: what should the first tool in a Slack MCP server be? Tell me in the comments.",
+  "voice": "Your turn: what should the first tool in a Slack MCP server be? Tell me in the comments."
+ }
+]

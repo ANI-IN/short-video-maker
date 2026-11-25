@@ -1,0 +1,49 @@
+# Installs the project from scratch and runs the offline self-test on Linux, Windows and macOS.
+# No ElevenLabs key and no credits are used: narration needs your own key, so the full video path is tested locally.
+name: cross-platform self-test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  selftest:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 75
+    env:
+      WHISPER_MODEL: tiny          # faster-whisper backend: small model keeps CI quick
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install ffmpeg (Linux)
+        if: runner.os == 'Linux'
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Install ffmpeg (macOS)
+        if: runner.os == 'macOS'
+        run: brew install ffmpeg
+      - name: Install ffmpeg (Windows)
+        if: runner.os == 'Windows'
+        run: choco install ffmpeg -y --no-progress
+      - name: Setup (install.py)
+        run: python install.py
+      - name: Doctor
+        run: python video.py doctor --no-key
+      - name: CLI smoke test
+        run: |
+          python video.py styles --group explainer
+          python video.py voices list --filter liam
+          python video.py list
+      - name: Self-test (storyboard, Whisper, OCR, explainroo, Remotion, ffmpeg)
+        run: python video.py selftest

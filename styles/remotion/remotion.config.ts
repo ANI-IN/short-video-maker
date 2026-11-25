@@ -1,0 +1,4 @@
+import { Config } from '@remotion/cli/config';
+Config.setVideoImageFormat('jpeg');
+Config.setOverwriteOutput(true);
+Config.setConcurrency(2); // 8 GB RAM: keep Chrome tabs low

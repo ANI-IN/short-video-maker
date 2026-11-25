@@ -1,0 +1,197 @@
+{
+ "title": "The dice game",
+ "topic": "The game of dice in the Mahabharat (Sabha Parva)",
+ "characters": [
+  {
+   "id": "yudhishthira",
+   "name": {
+    "en": "Yudhishthira",
+    "hi": "युधिष्ठिर"
+   },
+   "description": "eldest Pandava prince, calm, crown, king"
+  },
+  {
+   "id": "shakuni",
+   "name": {
+    "en": "Shakuni",
+    "hi": "शकुनि"
+   },
+   "description": "scheming old uncle, cunning villain, turban, beard, holds dice",
+   "voice": {
+    "en": "bm_george",
+    "hi": "Vasant"
+   }
+  },
+  {
+   "id": "duryodhana",
+   "name": {
+    "en": "Duryodhana",
+    "hi": "दुर्योधन"
+   },
+   "description": "arrogant jealous crown prince, strong, crown, carries a mace"
+  },
+  {
+   "id": "draupadi",
+   "name": {
+    "en": "Draupadi",
+    "hi": "द्रौपदी"
+   },
+   "description": "queen, woman, fierce, long hair, royal",
+   "voice": {
+    "en": "af_heart",
+    "hi": "Vaidehi"
+   }
+  },
+  {
+   "id": "bhishma",
+   "name": {
+    "en": "Bhishma",
+    "hi": "भीष्म"
+   },
+   "description": "old grandsire, white beard, tall, crown, sage"
+  },
+  {
+   "id": "bhima",
+   "name": {
+    "en": "Bhima",
+    "hi": "भीम"
+   },
+   "description": "mighty huge warrior, strong, helmet, armor, carries a mace",
+   "voice": {
+    "en": "am_onyx",
+    "hi": "Abhay"
+   }
+  },
+  {
+   "id": "krishna",
+   "name": {
+    "en": "Krishna",
+    "hi": "कृष्ण"
+   },
+   "description": "blue skin, peacock feather crown, holds a flute, calm smiling god, royal"
+  }
+ ],
+ "slug": "sample-character-story",
+ "scenes": [
+  {
+   "id": "hook",
+   "role": "hook",
+   "narration": {
+    "en": "One game of dice. By the end of it, a king had lost his kingdom, his brothers, himself, and his wife.",
+    "hi": "पासे का एक खेल। और खेल ख़त्म होते-होते एक राजा अपना राज्य, अपने भाई, ख़ुद को, और अपनी पत्नी तक हार चुका था।"
+   },
+   "headline": {
+    "en": "One game of *dice*",
+    "hi": "पासे का *एक खेल*"
+   },
+   "emoji": "🎲",
+   "icon": "dices",
+   "stress": [
+    "dice",
+    "wife",
+    "पत्नी"
+   ],
+   "stage": {
+    "background": "court",
+    "camera": "push-in",
+    "set": [
+     {
+      "kind": "dice-board",
+      "x": 0.5
+     }
+    ],
+    "speaker": "narrator",
+    "cast": [
+     {
+      "id": "yudhishthira",
+      "x": 0.24,
+      "pose": "sitting",
+      "actions": [
+       {
+        "at": 0.15,
+        "pose": "throwing"
+       },
+       {
+        "at": 0.75,
+        "pose": "despair"
+       }
+      ]
+     },
+     {
+      "id": "shakuni",
+      "x": 0.76,
+      "pose": "sitting-talk",
+      "actions": [
+       {
+        "at": 0.5,
+        "pose": "laughing"
+       }
+      ]
+     },
+     {
+      "id": "duryodhana",
+      "x": 0.9,
+      "depth": 1,
+      "pose": "standing",
+      "actions": [
+       {
+        "at": 0.6,
+        "pose": "laughing"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "vow",
+   "role": "payoff",
+   "narration": {
+    "en": "Hear me, Duryodhana. On the battlefield, I will break the very thigh you mocked her with.",
+    "hi": "सुन ले दुर्योधन। युद्ध के मैदान में मैं तेरी वही जांघ तोड़ूँगा, जिससे तूने उसका अपमान किया।"
+   },
+   "headline": {
+    "en": "Bhima's *vow*",
+    "hi": "भीम की *प्रतिज्ञा*"
+   },
+   "emoji": "🔥",
+   "icon": "flame",
+   "energy": "high",
+   "stress": [
+    "break",
+    "thigh",
+    "तोड़ूँगा"
+   ],
+   "stage": {
+    "background": "battlefield",
+    "camera": "push-in",
+    "speaker": "bhima",
+    "focus": "bhima",
+    "cast": [
+     {
+      "id": "bhima",
+      "x": 0.35,
+      "pose": "fighting-stance",
+      "actions": [
+       {
+        "at": 0.5,
+        "pose": "weapon-raised"
+       }
+      ]
+     },
+     {
+      "id": "duryodhana",
+      "x": 0.75,
+      "pose": "laughing",
+      "actions": [
+       {
+        "at": 0.6,
+        "pose": "shocked"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

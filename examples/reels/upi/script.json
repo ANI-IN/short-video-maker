@@ -1,0 +1,67 @@
+[
+ {
+  "chapter": "hook",
+  "cap": "Interview question: you send 50 rupees on UPI. What happens in between?",
+  "voice": "Interview question: you send 50 rupees on UPI. What happens in between?"
+ },
+ {
+  "chapter": "hook",
+  "cap": "You said, the money just goes. Sure, but how?",
+  "voice": "You said, the money just goes. Sure, but how?"
+ },
+ {
+  "chapter": "task",
+  "cap": "Let's pay the tea seller 50 rupees. Scan, enter the amount, enter your PIN. Done.",
+  "voice": "Let's pay the tea seller 50 rupees. Scan, enter the amount, enter your PIN. Done."
+ },
+ {
+  "chapter": "problem",
+  "cap": "But in October 2026, UPI handled more than 2,500 crore transactions.",
+  "voice": "But in October 2026, UPI handled more than two-thousand-five-hundred crore transactions."
+ },
+ {
+  "chapter": "problem",
+  "cap": "That's about 82 crore every single day. Each one in a few seconds. How?",
+  "voice": "That's about 82 crore every single day. Each one in a few seconds. How?"
+ },
+ {
+  "chapter": "solution",
+  "cap": "First, your app, like PhonePe or GPay. The app never holds your money, it passes the request to its partner bank.",
+  "voice": "First, your app, like PhonePe or GPay. The app never holds your money, it passes the request to its partner bank."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Second, the NPCI UPI switch. Think of it as the central router for all of India.",
+  "voice": "Second, the NPCI UPI switch. Think of it as the central router for all of India."
+ },
+ {
+  "chapter": "solution",
+  "cap": "The switch reads the tea seller's UPI ID, and finds out which bank holds his account.",
+  "voice": "The switch reads the tea seller's UPI ID, and finds out which bank holds his account."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Third, your bank. It checks your PIN, and debits 50 rupees from your account.",
+  "voice": "Third, your bank. It checks your PIN, and debits 50 rupees from your account."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Then the switch tells the tea seller's bank: credit 50 rupees.",
+  "voice": "Then the switch tells the tea seller's bank: credit 50 rupees."
+ },
+ {
+  "chapter": "solution",
+  "cap": "A success message travels back both ways. A ding for you, a ding for him.",
+  "voice": "A success message travels back both ways. A ding for you, a ding for him."
+ },
+ {
+  "chapter": "solution",
+  "cap": "And what if money you sent a friend gets debited but never arrives? The RBI rule says: auto refund by the next day, or the bank pays you 100 rupees a day.",
+  "voice": "And what if money you sent a friend gets debited but never arrives? The RBI rule says: auto refund by the next day, or the bank pays you 100 rupees a day."
+ },
+ {
+  "chapter": "cta",
+  "cap": "Now your turn: in a UPI ID, what does the part after the at sign, like ybl or oksbi, tell you? Tell me in the comments.",
+  "voice": "Now your turn: in a UPI ID, what does the part after the at sign, like ybl or oksbi, tell you? Tell me in the comments."
+ }
+]

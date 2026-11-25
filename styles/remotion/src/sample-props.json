@@ -1,0 +1,189 @@
+{
+ "style": "kinetic-typography",
+ "lang": "en",
+ "title": "Coffee timing",
+ "duration": 4.2,
+ "scenes": [
+  {
+   "id": "hook",
+   "role": "hook",
+   "headline": "Coffee hits in *10 minutes*",
+   "emoji": "☕",
+   "icon": "coffee",
+   "stat": {
+    "value": 10,
+    "suffix": " min",
+    "label": "to kick in"
+   },
+   "chart": {
+    "type": "bar",
+    "items": [
+     {
+      "label": "10 min",
+      "value": 30
+     },
+     {
+      "label": "30 min",
+      "value": 80
+     },
+     {
+      "label": "1 hour",
+      "value": 100
+     }
+    ]
+   },
+   "compare": {
+    "left": {
+     "title": "7 AM",
+     "emoji": "😴",
+     "points": [
+      "Too early"
+     ]
+    },
+    "right": {
+     "title": "9 AM",
+     "emoji": "⚡",
+     "points": [
+      "Just right"
+     ]
+    }
+   },
+   "places": [
+    {
+     "name": "Ethiopia",
+     "lat": 9.1,
+     "lon": 40.5
+    },
+    {
+     "name": "Brazil",
+     "lat": -14.2,
+     "lon": -51.9
+    },
+    {
+     "name": "India",
+     "lat": 12.9,
+     "lon": 75.6
+    }
+   ],
+   "narration": "Coffee reaches your brain in just ten minutes.",
+   "start": 0.0,
+   "dur": 2.46,
+   "words": [
+    {
+     "w": "Coffee",
+     "s": 0.05,
+     "e": 0.366
+    },
+    {
+     "w": "reaches",
+     "s": 0.366,
+     "e": 0.725
+    },
+    {
+     "w": "your",
+     "s": 0.725,
+     "e": 0.957
+    },
+    {
+     "w": "brain",
+     "s": 0.957,
+     "e": 1.231
+    },
+    {
+     "w": "in",
+     "s": 1.231,
+     "e": 1.379
+    },
+    {
+     "w": "just",
+     "s": 1.379,
+     "e": 1.611
+    },
+    {
+     "w": "ten",
+     "s": 1.611,
+     "e": 1.801
+    },
+    {
+     "w": "minutes.",
+     "s": 1.801,
+     "e": 2.16
+    }
+   ]
+  },
+  {
+   "id": "payoff",
+   "role": "payoff",
+   "headline": "Time it *right*",
+   "emoji": "⏰",
+   "icon": "alarm-clock",
+   "items": [
+    "Wake up",
+    "Wait 90 min",
+    "Then coffee"
+   ],
+   "steps": [
+    {
+     "date": "7:00",
+     "label": "Wake"
+    },
+    {
+     "date": "8:30",
+     "label": "Coffee"
+    },
+    {
+     "date": "8:40",
+     "label": "Focus"
+    }
+   ],
+   "chart": {
+    "type": "pie",
+    "items": [
+     {
+      "label": "Focus",
+      "value": 70
+     },
+     {
+      "label": "Jitters",
+      "value": 30
+     }
+    ]
+   },
+   "narration": "Time it right and feel sharper.",
+   "start": 2.46,
+   "dur": 1.74,
+   "words": [
+    {
+     "w": "Time",
+     "s": 0.05,
+     "e": 0.275
+    },
+    {
+     "w": "it",
+     "s": 0.275,
+     "e": 0.418
+    },
+    {
+     "w": "right",
+     "s": 0.418,
+     "e": 0.684
+    },
+    {
+     "w": "and",
+     "s": 0.684,
+     "e": 0.867
+    },
+    {
+     "w": "feel",
+     "s": 0.867,
+     "e": 1.092
+    },
+    {
+     "w": "sharper.",
+     "s": 1.092,
+     "e": 1.44
+    }
+   ]
+  }
+ ]
+}

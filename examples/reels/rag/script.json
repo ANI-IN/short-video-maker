@@ -1,0 +1,92 @@
+[
+ {
+  "chapter": "hook",
+  "cap": "Interview question: what's the difference between RAG and fine-tuning?",
+  "voice": "Interview question: what's the difference between RAG and fine-tuning?"
+ },
+ {
+  "chapter": "hook",
+  "cap": "You said, both make the AI smarter.",
+  "voice": "You said, both make the AI smarter."
+ },
+ {
+  "chapter": "hook",
+  "cap": "Not wrong, but incomplete.",
+  "voice": "Not wrong, but incomplete."
+ },
+ {
+  "chapter": "task",
+  "cap": "You have to build your company's HR bot, one that reads the leave policy PDFs and answers questions.",
+  "voice": "You have to build your company's HR bot, one that reads the leave policy PDFs and answers questions."
+ },
+ {
+  "chapter": "task",
+  "cap": "But ChatGPT has never seen your PDFs.",
+  "voice": "But ChatGPT has never seen your PDFs."
+ },
+ {
+  "chapter": "problem",
+  "cap": "So it guesses, and says wrong things with full confidence. That's called hallucination.",
+  "voice": "So it guesses, and says wrong things with full confidence. That's called hallucination."
+ },
+ {
+  "chapter": "problem",
+  "cap": "Retrain the model for every new PDF? Expensive, and slow.",
+  "voice": "Retrain the model for every new PDF? Expensive, and slow."
+ },
+ {
+  "chapter": "solution",
+  "cap": "That's why RAG exists: Retrieval Augmented Generation. The idea came from a 2020 paper by Facebook AI.",
+  "voice": "That's why RAG exists: Retrieval Augmented Generation. The idea came from a 2020 paper by Facebook AI."
+ },
+ {
+  "chapter": "solution",
+  "cap": "First, cut the PDFs into small chunks.",
+  "voice": "First, cut the PDFs into small chunks."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Turn each chunk into a list of numbers, called an embedding.",
+  "voice": "Turn each chunk into a list of numbers, called an embedding."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Chunks with similar meaning get numbers that sit close together.",
+  "voice": "Chunks with similar meaning get numbers that sit close together."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Store them all in a vector database.",
+  "voice": "Store them all in a vector database."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Now an employee asks: how many leaves do I get?",
+  "voice": "Now an employee asks: how many leaves do I get?"
+ },
+ {
+  "chapter": "solution",
+  "cap": "The question becomes an embedding too, and the database pulls out the three closest chunks. That's Retrieval.",
+  "voice": "The question becomes an embedding too, and the database pulls out the three closest chunks. That's Retrieval."
+ },
+ {
+  "chapter": "solution",
+  "cap": "Those chunks go to the LLM along with the question. That's Augmented.",
+  "voice": "Those chunks go to the LLM along with the question. That's Augmented."
+ },
+ {
+  "chapter": "solution",
+  "cap": "And the LLM writes the answer from them, with the source. That's Generation.",
+  "voice": "And the LLM writes the answer from them, with the source. That's Generation."
+ },
+ {
+  "chapter": "solution",
+  "cap": "So fine-tuning changes the model's style, while RAG gives it fresh knowledge.",
+  "voice": "So fine-tuning changes the model's style, while RAG gives it fresh knowledge."
+ },
+ {
+  "chapter": "cta",
+  "cap": "Now your turn: would you keep chunks small or big, and why? Tell me in the comments.",
+  "voice": "Now your turn: would you keep chunks small or big, and why? Tell me in the comments."
+ }
+]

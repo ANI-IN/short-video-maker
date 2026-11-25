@@ -1,0 +1,91 @@
+{
+ "title": "The Taj Mahal myth",
+ "topic": "how the Taj Mahal was built",
+ "slug": "sample-real-footage",
+ "scenes": [
+  {
+   "id": "hook",
+   "role": "hook",
+   "narration": {
+    "en": "You've probably heard Shah Jahan cut off the hands of everyone who built the Taj Mahal."
+   },
+   "headline": {
+    "en": "The *hands* myth"
+   },
+   "emoji": "✋",
+   "icon": "hand",
+   "stress": [
+    "hands",
+    "never",
+    "stranger"
+   ],
+   "visual": "footage",
+   "visual_reason": "the line names the Taj Mahal itself — open on the building",
+   "footage": {
+    "queries": [
+     "Taj Mahal",
+     "Taj Mahal Agra",
+     "Taj Mahal dome"
+    ],
+    "subject": "the white marble Taj Mahal mausoleum with its big dome and four minarets",
+    "keywords": [
+     "Taj"
+    ],
+    "prefer": "any"
+   }
+  },
+  {
+   "id": "marble",
+   "role": "payoff",
+   "narration": {
+    "en": "The white marble came from Makrana, in Rajasthan."
+   },
+   "headline": {
+    "en": "Flowers of *stone*"
+   },
+   "emoji": "🌸",
+   "icon": "flower",
+   "visual": "footage",
+   "visual_reason": "the inlaid stone flowers are something a close-up photo can actually show",
+   "footage": {
+    "queries": [
+     "Taj Mahal inlay",
+     "pietra dura",
+     "Taj Mahal marble detail"
+    ],
+    "subject": "close-up of white marble with colourful inlaid stone flowers",
+    "keywords": [
+     "Taj",
+     "inlay"
+    ],
+    "prefer": "image"
+   }
+  },
+  {
+   "id": "river",
+   "role": "payoff",
+   "narration": {
+    "en": "And the whole thing stands on the bank of the Yamuna, on a base built over wells."
+   },
+   "headline": {
+    "en": "It needs the *river*"
+   },
+   "emoji": "🏞️",
+   "icon": "waves-horizontal",
+   "visual": "footage",
+   "visual_reason": "the line is about the Taj sitting on the Yamuna — show the river side",
+   "footage": {
+    "queries": [
+     "Yamuna Taj Mahal",
+     "Taj Mahal river",
+     "Yamuna river Agra"
+    ],
+    "subject": "the Taj Mahal seen across a wide river",
+    "keywords": [
+     "Yamuna"
+    ],
+    "prefer": "any"
+   }
+  }
+ ]
+}
